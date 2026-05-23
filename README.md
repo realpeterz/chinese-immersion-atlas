@@ -23,8 +23,7 @@ Then visit <http://localhost:8000/Chinese-Immersion-Atlas.html>.
 The atlas HTML currently embeds school data in a JavaScript `SCHOOLS` constant. To refresh it from a newer MIP spreadsheet:
 
 ```bash
-python3 -m pip install -r requirements.txt
-./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
+uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
 ```
 
 The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. Run with `--dry-run` first to check for unmatched schools.
@@ -32,7 +31,7 @@ The spreadsheet does not include latitude/longitude, so the script uses `data/ge
 To fetch coordinates for new schools via Nominatim/OpenStreetMap:
 
 ```bash
-./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --geocode-missing
+uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --geocode-missing
 ```
 
 Review new `data/geocodes.json` entries after geocoding; automated geocoding can return approximate or incorrect matches.
@@ -40,7 +39,7 @@ Review new `data/geocodes.json` entries after geocoding; automated geocoding can
 ## Tests
 
 ```bash
-python3 -m unittest discover -s tests -v
+uv run python -m unittest discover -s tests -v
 ```
 
 ## Data source

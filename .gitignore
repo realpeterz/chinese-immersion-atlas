@@ -10,6 +10,11 @@
 *.bak
 *.swp
 
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
 # Local servers/build artifacts
 node_modules/
 dist/
