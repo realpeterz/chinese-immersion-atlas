@@ -6,6 +6,7 @@ An interactive web map of Chinese immersion programs.
 
 - `Chinese-Immersion-Atlas.html` — interactive atlas page.
 - `data/schools.json` — generated school data loaded by the atlas.
+- `data/labels.json` — generated map label data loaded by the atlas.
 - `data/geocodes.json` — geocode cache used during spreadsheet ingestion.
 - `data/source/mip-list-2026-1-17-1.xlsx` — source spreadsheet downloaded from the Mandarin Immersion Parents Council.
 - `data/source/SOURCES.txt` — source URLs.
@@ -22,7 +23,7 @@ Then visit <http://localhost:8000/Chinese-Immersion-Atlas.html>.
 
 ## Ingest a new spreadsheet
 
-The atlas loads generated school data from `data/schools.json`. To refresh it from a newer MIP spreadsheet:
+The atlas loads generated school data from `data/schools.json` and label data from `data/labels.json`. To refresh them from a newer MIP spreadsheet:
 
 ```bash
 uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx

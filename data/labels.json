@@ -1,0 +1,933 @@
+{
+  "countries": [
+    {
+      "name": "Canada",
+      "lat": 56.702,
+      "lng": -110.244
+    },
+    {
+      "name": "USA",
+      "lat": 37.237,
+      "lng": -99.315
+    },
+    {
+      "name": "Argentina",
+      "lat": -37.239,
+      "lng": -64.081
+    },
+    {
+      "name": "Thailand",
+      "lat": 13.037,
+      "lng": 101.663
+    },
+    {
+      "name": "South Korea",
+      "lat": 36.205,
+      "lng": 127.901
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.245,
+      "lng": 19.103
+    },
+    {
+      "name": "Australia",
+      "lat": -24.841,
+      "lng": 133.059
+    },
+    {
+      "name": "China",
+      "lat": 36.799,
+      "lng": 98.77
+    },
+    {
+      "name": "United Kingdom",
+      "lat": 54.225,
+      "lng": -1.753
+    },
+    {
+      "name": "Malaysia",
+      "lat": 3.833,
+      "lng": 102.072
+    },
+    {
+      "name": "Uganda",
+      "lat": 1.38,
+      "lng": 32.547
+    },
+    {
+      "name": "Hong Kong",
+      "lat": 22.32,
+      "lng": 114.17
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.35,
+      "lng": 103.82
+    }
+  ],
+  "states": [
+    {
+      "name": "Alabama",
+      "lat": 32.72,
+      "lng": -86.749
+    },
+    {
+      "name": "Alaska",
+      "lat": 62.923,
+      "lng": -152.89
+    },
+    {
+      "name": "Arizona",
+      "lat": 34.141,
+      "lng": -111.691
+    },
+    {
+      "name": "Arkansas",
+      "lat": 34.747,
+      "lng": -92.448
+    },
+    {
+      "name": "California",
+      "lat": 37.301,
+      "lng": -120.011
+    },
+    {
+      "name": "Colorado",
+      "lat": 38.701,
+      "lng": -105.553
+    },
+    {
+      "name": "Connecticut",
+      "lat": 41.71,
+      "lng": -72.658
+    },
+    {
+      "name": "Delaware",
+      "lat": 39.188,
+      "lng": -75.585
+    },
+    {
+      "name": "District of Columbia",
+      "lat": 38.843,
+      "lng": -77.022
+    },
+    {
+      "name": "Florida",
+      "lat": 27.991,
+      "lng": -81.666
+    },
+    {
+      "name": "Georgia",
+      "lat": 32.736,
+      "lng": -83.278
+    },
+    {
+      "name": "Hawaii",
+      "lat": 19.627,
+      "lng": -155.481
+    },
+    {
+      "name": "Idaho",
+      "lat": 45.49,
+      "lng": -115.477
+    },
+    {
+      "name": "Illinois",
+      "lat": 39.881,
+      "lng": -89.48
+    },
+    {
+      "name": "Indiana",
+      "lat": 39.925,
+      "lng": -86.168
+    },
+    {
+      "name": "Iowa",
+      "lat": 41.891,
+      "lng": -93.13
+    },
+    {
+      "name": "Kansas",
+      "lat": 38.079,
+      "lng": -98.33
+    },
+    {
+      "name": "Kentucky",
+      "lat": 37.846,
+      "lng": -84.747
+    },
+    {
+      "name": "Louisiana",
+      "lat": 31.033,
+      "lng": -92.567
+    },
+    {
+      "name": "Maine",
+      "lat": 45.221,
+      "lng": -69.254
+    },
+    {
+      "name": "Maryland",
+      "lat": 38.81,
+      "lng": -76.773
+    },
+    {
+      "name": "Massachusetts",
+      "lat": 42.168,
+      "lng": -72.091
+    },
+    {
+      "name": "Michigan",
+      "lat": 46.259,
+      "lng": -86.92
+    },
+    {
+      "name": "Minnesota",
+      "lat": 46.547,
+      "lng": -94.527
+    },
+    {
+      "name": "Mississippi",
+      "lat": 32.578,
+      "lng": -89.735
+    },
+    {
+      "name": "Missouri",
+      "lat": 38.296,
+      "lng": -92.483
+    },
+    {
+      "name": "Montana",
+      "lat": 46.675,
+      "lng": -109.332
+    },
+    {
+      "name": "Nebraska",
+      "lat": 41.497,
+      "lng": -100.03
+    },
+    {
+      "name": "Nevada",
+      "lat": 38.55,
+      "lng": -116.703
+    },
+    {
+      "name": "New Hampshire",
+      "lat": 44.035,
+      "lng": -71.537
+    },
+    {
+      "name": "New Jersey",
+      "lat": 40.171,
+      "lng": -74.403
+    },
+    {
+      "name": "New Mexico",
+      "lat": 35.259,
+      "lng": -106.043
+    },
+    {
+      "name": "New York",
+      "lat": 42.765,
+      "lng": -76.082
+    },
+    {
+      "name": "North Carolina",
+      "lat": 35.212,
+      "lng": -80.404
+    },
+    {
+      "name": "North Dakota",
+      "lat": 47.289,
+      "lng": -100.442
+    },
+    {
+      "name": "Ohio",
+      "lat": 40.199,
+      "lng": -82.737
+    },
+    {
+      "name": "Oklahoma",
+      "lat": 34.985,
+      "lng": -97.221
+    },
+    {
+      "name": "Oregon",
+      "lat": 43.994,
+      "lng": -120.554
+    },
+    {
+      "name": "Pennsylvania",
+      "lat": 41.075,
+      "lng": -77.764
+    },
+    {
+      "name": "Rhode Island",
+      "lat": 41.645,
+      "lng": -71.601
+    },
+    {
+      "name": "South Carolina",
+      "lat": 33.547,
+      "lng": -80.536
+    },
+    {
+      "name": "South Dakota",
+      "lat": 44.249,
+      "lng": -100.254
+    },
+    {
+      "name": "Tennessee",
+      "lat": 35.888,
+      "lng": -86.316
+    },
+    {
+      "name": "Texas",
+      "lat": 31.266,
+      "lng": -99.742
+    },
+    {
+      "name": "Utah",
+      "lat": 40.062,
+      "lng": -111.548
+    },
+    {
+      "name": "Vermont",
+      "lat": 43.882,
+      "lng": -72.773
+    },
+    {
+      "name": "Virginia",
+      "lat": 38.011,
+      "lng": -78.24
+    },
+    {
+      "name": "Washington",
+      "lat": 47.015,
+      "lng": -120.604
+    },
+    {
+      "name": "West Virginia",
+      "lat": 38.92,
+      "lng": -80.263
+    },
+    {
+      "name": "Wisconsin",
+      "lat": 44.736,
+      "lng": -90.381
+    },
+    {
+      "name": "Wyoming",
+      "lat": 42.502,
+      "lng": -107.55
+    },
+    {
+      "name": "Puerto Rico",
+      "lat": 18.283,
+      "lng": -66.423
+    }
+  ],
+  "cities": [
+    {
+      "name": "San Francisco",
+      "lat": 37.756,
+      "lng": -122.444,
+      "n": 14
+    },
+    {
+      "name": "Edmonton, Alberta,",
+      "lat": 53.546,
+      "lng": -113.494,
+      "n": 13
+    },
+    {
+      "name": "Portland",
+      "lat": 45.531,
+      "lng": -122.669,
+      "n": 10
+    },
+    {
+      "name": "Los Angeles",
+      "lat": 34.053,
+      "lng": -118.305,
+      "n": 7
+    },
+    {
+      "name": "St. George",
+      "lat": 37.237,
+      "lng": -113.756,
+      "n": 7
+    },
+    {
+      "name": "Lakeside",
+      "lat": 32.903,
+      "lng": -116.865,
+      "n": 6
+    },
+    {
+      "name": "South Jordan",
+      "lat": 40.546,
+      "lng": -112.006,
+      "n": 6
+    },
+    {
+      "name": "Austin",
+      "lat": 30.329,
+      "lng": -97.75,
+      "n": 5
+    },
+    {
+      "name": "Barrington",
+      "lat": 42.158,
+      "lng": -88.157,
+      "n": 5
+    },
+    {
+      "name": "Grand Rapids",
+      "lat": 42.979,
+      "lng": -85.576,
+      "n": 5
+    },
+    {
+      "name": "New York",
+      "lat": 40.737,
+      "lng": -73.989,
+      "n": 5
+    },
+    {
+      "name": "Riverton",
+      "lat": 40.48,
+      "lng": -111.988,
+      "n": 5
+    },
+    {
+      "name": "San Jose",
+      "lat": 37.346,
+      "lng": -121.911,
+      "n": 5
+    },
+    {
+      "name": "Atlanta",
+      "lat": 33.782,
+      "lng": -84.457,
+      "n": 4
+    },
+    {
+      "name": "Bellevue",
+      "lat": 47.57,
+      "lng": -122.156,
+      "n": 4
+    },
+    {
+      "name": "Brooklyn",
+      "lat": 40.642,
+      "lng": -74.006,
+      "n": 4
+    },
+    {
+      "name": "Hurricane",
+      "lat": 37.25,
+      "lng": -113.195,
+      "n": 4
+    },
+    {
+      "name": "Irvine",
+      "lat": 33.693,
+      "lng": -117.792,
+      "n": 4
+    },
+    {
+      "name": "Monrovia",
+      "lat": 34.154,
+      "lng": -117.974,
+      "n": 4
+    },
+    {
+      "name": "Orem",
+      "lat": 40.301,
+      "lng": -111.682,
+      "n": 4
+    },
+    {
+      "name": "San Diego",
+      "lat": 32.834,
+      "lng": -117.207,
+      "n": 4
+    },
+    {
+      "name": "Seattle",
+      "lat": 47.554,
+      "lng": -122.323,
+      "n": 4
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.352,
+      "lng": 103.82,
+      "n": 4
+    },
+    {
+      "name": "Townsend",
+      "lat": 39.374,
+      "lng": -75.64,
+      "n": 4
+    },
+    {
+      "name": "Washington",
+      "lat": 38.925,
+      "lng": -76.976,
+      "n": 4
+    },
+    {
+      "name": "Washington",
+      "lat": 37.132,
+      "lng": -113.489,
+      "n": 4
+    },
+    {
+      "name": "Alhambra",
+      "lat": 34.086,
+      "lng": -118.138,
+      "n": 3
+    },
+    {
+      "name": "Anchorage",
+      "lat": 61.208,
+      "lng": -149.742,
+      "n": 3
+    },
+    {
+      "name": "Baltimore",
+      "lat": 39.304,
+      "lng": -76.613,
+      "n": 3
+    },
+    {
+      "name": "Batesville",
+      "lat": 39.29,
+      "lng": -85.213,
+      "n": 3
+    },
+    {
+      "name": "Berkeley",
+      "lat": 37.868,
+      "lng": -122.285,
+      "n": 3
+    },
+    {
+      "name": "Calgary, AB",
+      "lat": 51.045,
+      "lng": -114.072,
+      "n": 3
+    },
+    {
+      "name": "Camden",
+      "lat": 39.093,
+      "lng": -75.614,
+      "n": 3
+    },
+    {
+      "name": "Costa Mesa",
+      "lat": 33.679,
+      "lng": -117.906,
+      "n": 3
+    },
+    {
+      "name": "Cottonwood Heights",
+      "lat": 40.603,
+      "lng": -111.771,
+      "n": 3
+    },
+    {
+      "name": "Denver",
+      "lat": 39.736,
+      "lng": -104.924,
+      "n": 3
+    },
+    {
+      "name": "Draper",
+      "lat": 40.493,
+      "lng": -111.87,
+      "n": 3
+    },
+    {
+      "name": "Excelsior",
+      "lat": 40.012,
+      "lng": -93.08,
+      "n": 3
+    },
+    {
+      "name": "Flushing",
+      "lat": 40.761,
+      "lng": -73.826,
+      "n": 3
+    },
+    {
+      "name": "Fremont",
+      "lat": 37.523,
+      "lng": -121.936,
+      "n": 3
+    },
+    {
+      "name": "Greenville",
+      "lat": 43.208,
+      "lng": -85.272,
+      "n": 3
+    },
+    {
+      "name": "Hopkins",
+      "lat": 44.952,
+      "lng": -93.436,
+      "n": 3
+    },
+    {
+      "name": "Newark",
+      "lat": 39.715,
+      "lng": -75.732,
+      "n": 3
+    },
+    {
+      "name": "Overland Park",
+      "lat": 38.874,
+      "lng": -94.689,
+      "n": 3
+    },
+    {
+      "name": "Palo Alto",
+      "lat": 37.442,
+      "lng": -122.125,
+      "n": 3
+    },
+    {
+      "name": "Pasadena",
+      "lat": 34.152,
+      "lng": -118.062,
+      "n": 3
+    },
+    {
+      "name": "Provo",
+      "lat": 40.304,
+      "lng": -111.633,
+      "n": 3
+    },
+    {
+      "name": "Rigby",
+      "lat": 43.696,
+      "lng": -111.875,
+      "n": 3
+    },
+    {
+      "name": "Saint Cloud",
+      "lat": 45.581,
+      "lng": -94.215,
+      "n": 3
+    },
+    {
+      "name": "San Mateo",
+      "lat": 37.563,
+      "lng": -122.314,
+      "n": 3
+    },
+    {
+      "name": "Sandy",
+      "lat": 40.585,
+      "lng": -111.877,
+      "n": 3
+    },
+    {
+      "name": "Santa Clara",
+      "lat": 37.134,
+      "lng": -113.649,
+      "n": 3
+    },
+    {
+      "name": "Scottsdale",
+      "lat": 33.52,
+      "lng": -111.819,
+      "n": 3
+    },
+    {
+      "name": "Taylorsville",
+      "lat": 40.646,
+      "lng": -111.998,
+      "n": 3
+    },
+    {
+      "name": "Vancouver",
+      "lat": 45.671,
+      "lng": -122.654,
+      "n": 3
+    },
+    {
+      "name": "Vancouver, BC",
+      "lat": 49.283,
+      "lng": -123.121,
+      "n": 3
+    },
+    {
+      "name": "Aberdeen",
+      "lat": 22.248,
+      "lng": 114.153,
+      "n": 2
+    },
+    {
+      "name": "Alpine",
+      "lat": 40.424,
+      "lng": -111.708,
+      "n": 2
+    },
+    {
+      "name": "Aurora",
+      "lat": 39.698,
+      "lng": -104.782,
+      "n": 2
+    },
+    {
+      "name": "Baton Rouge",
+      "lat": 30.426,
+      "lng": -91.136,
+      "n": 2
+    },
+    {
+      "name": "Beaverton",
+      "lat": 45.496,
+      "lng": -122.8,
+      "n": 2
+    },
+    {
+      "name": "Beijing",
+      "lat": 39.904,
+      "lng": 116.407,
+      "n": 2
+    },
+    {
+      "name": "Bountiful",
+      "lat": 40.876,
+      "lng": -111.823,
+      "n": 2
+    },
+    {
+      "name": "Brigham City",
+      "lat": 41.511,
+      "lng": -112.143,
+      "n": 2
+    },
+    {
+      "name": "Casper",
+      "lat": 42.966,
+      "lng": -106.807,
+      "n": 2
+    },
+    {
+      "name": "Centerville",
+      "lat": 40.938,
+      "lng": -111.902,
+      "n": 2
+    },
+    {
+      "name": "Chapel Hill",
+      "lat": 35.904,
+      "lng": -79.035,
+      "n": 2
+    },
+    {
+      "name": "Charlotte",
+      "lat": 35.205,
+      "lng": -80.903,
+      "n": 2
+    },
+    {
+      "name": "Columbia",
+      "lat": 34.008,
+      "lng": -80.999,
+      "n": 2
+    },
+    {
+      "name": "Concord",
+      "lat": 35.42,
+      "lng": -80.676,
+      "n": 2
+    },
+    {
+      "name": "Cumberland",
+      "lat": 39.629,
+      "lng": -78.766,
+      "n": 2
+    },
+    {
+      "name": "Eugene",
+      "lat": 43.929,
+      "lng": -123.124,
+      "n": 2
+    },
+    {
+      "name": "Forest Lake",
+      "lat": 45.262,
+      "lng": -93.014,
+      "n": 2
+    },
+    {
+      "name": "Greenville",
+      "lat": 34.828,
+      "lng": -82.358,
+      "n": 2
+    },
+    {
+      "name": "Hayward",
+      "lat": 37.664,
+      "lng": -122.058,
+      "n": 2
+    },
+    {
+      "name": "Holland",
+      "lat": 42.741,
+      "lng": -86.066,
+      "n": 2
+    },
+    {
+      "name": "Houston",
+      "lat": 29.746,
+      "lng": -95.513,
+      "n": 2
+    },
+    {
+      "name": "Lansing",
+      "lat": 42.743,
+      "lng": -84.525,
+      "n": 2
+    },
+    {
+      "name": "Minnetonka",
+      "lat": 44.919,
+      "lng": -93.483,
+      "n": 2
+    },
+    {
+      "name": "New Territories",
+      "lat": 22.346,
+      "lng": 114.266,
+      "n": 2
+    },
+    {
+      "name": "North Ogden",
+      "lat": 41.317,
+      "lng": -111.962,
+      "n": 2
+    },
+    {
+      "name": "Phoenix",
+      "lat": 33.625,
+      "lng": -112.006,
+      "n": 2
+    },
+    {
+      "name": "Queens",
+      "lat": 40.745,
+      "lng": -73.808,
+      "n": 2
+    },
+    {
+      "name": "Raleigh",
+      "lat": 35.831,
+      "lng": -78.674,
+      "n": 2
+    },
+    {
+      "name": "Redwood City",
+      "lat": 37.436,
+      "lng": -122.268,
+      "n": 2
+    },
+    {
+      "name": "Rockville",
+      "lat": 39.053,
+      "lng": -77.123,
+      "n": 2
+    },
+    {
+      "name": "Rosemead",
+      "lat": 34.062,
+      "lng": -118.082,
+      "n": 2
+    },
+    {
+      "name": "Sacramento",
+      "lat": 38.553,
+      "lng": -121.44,
+      "n": 2
+    },
+    {
+      "name": "Saint Paul",
+      "lat": 44.911,
+      "lng": -93.17,
+      "n": 2
+    },
+    {
+      "name": "Saratoga Springs",
+      "lat": 40.347,
+      "lng": -111.915,
+      "n": 2
+    },
+    {
+      "name": "Schaumburg",
+      "lat": 42.009,
+      "lng": -88.093,
+      "n": 2
+    },
+    {
+      "name": "Shanghai",
+      "lat": 31.23,
+      "lng": 121.474,
+      "n": 2
+    },
+    {
+      "name": "Springville",
+      "lat": 40.225,
+      "lng": -111.492,
+      "n": 2
+    },
+    {
+      "name": "Syracuse",
+      "lat": 41.084,
+      "lng": -112.079,
+      "n": 2
+    },
+    {
+      "name": "Tucson",
+      "lat": 32.173,
+      "lng": -110.839,
+      "n": 2
+    },
+    {
+      "name": "West Columbia",
+      "lat": 33.991,
+      "lng": -81.101,
+      "n": 2
+    },
+    {
+      "name": "West Covina",
+      "lat": 34.066,
+      "lng": -117.915,
+      "n": 2
+    },
+    {
+      "name": "West Linn",
+      "lat": 45.341,
+      "lng": -122.662,
+      "n": 2
+    },
+    {
+      "name": "Abbotsford",
+      "lat": -37.803,
+      "lng": 144.998,
+      "n": 1
+    },
+    {
+      "name": "Anaheim",
+      "lat": 33.826,
+      "lng": -117.91,
+      "n": 1
+    }
+  ]
+}
