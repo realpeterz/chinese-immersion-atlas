@@ -5,7 +5,8 @@ An interactive web map of Chinese immersion programs.
 ## Files
 
 - `Chinese-Immersion-Atlas.html` — standalone interactive atlas page.
-- `mip-list-2026-1-17-1.xlsx` — source spreadsheet downloaded from the Mandarin Immersion Parents Council.
+- `data/source/mip-list-2026-1-17-1.xlsx` — source spreadsheet downloaded from the Mandarin Immersion Parents Council.
+- `data/source/SOURCES.txt` — source URLs.
 
 ## Run locally
 
@@ -23,7 +24,7 @@ The atlas HTML currently embeds school data in a JavaScript `SCHOOLS` constant. 
 
 ```bash
 python3 -m pip install -r requirements.txt
-./scripts/ingest_spreadsheet.py path/to/latest-mip-list.xlsx
+./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
 ```
 
 The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. Run with `--dry-run` first to check for unmatched schools.
@@ -31,7 +32,7 @@ The spreadsheet does not include latitude/longitude, so the script uses `data/ge
 To fetch coordinates for new schools via Nominatim/OpenStreetMap:
 
 ```bash
-./scripts/ingest_spreadsheet.py path/to/latest-mip-list.xlsx --geocode-missing
+./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --geocode-missing
 ```
 
 Review new `data/geocodes.json` entries after geocoding; automated geocoding can return approximate or incorrect matches.
@@ -44,6 +45,4 @@ python3 -m unittest discover -s tests -v
 
 ## Data source
 
-Spreadsheet downloaded from:
-
-<https://miparentscouncil.org/wp-content/uploads/2026/01/mip-list-2026-1-17-1.xlsx>
+See `data/source/SOURCES.txt`.
