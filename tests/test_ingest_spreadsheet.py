@@ -1,5 +1,7 @@
 import importlib.util
 import json
+import sys
+import tempfile
 import unittest
 from pathlib import Path
 
@@ -92,6 +94,56 @@ class IngestSpreadsheetTests(unittest.TestCase):
 
         self.assertEqual(json.loads(payload), schools)
         self.assertIn('const WORLD = {"old":true};', updated)
+
+    def test_main_writes_schools_and_labels_json(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            tmp = Path(tmp)
+            html = tmp / "atlas.html"
+            html.write_text('const WORLD = {};\nconst C_MANDARIN = "#c";\n', encoding="utf-8")
+            schools_json = tmp / "schools.json"
+            labels_json = tmp / "labels.json"
+            geocodes_json = tmp / "geocodes.json"
+            xlsx = tmp / "schools.xlsx"
+
+            schools_json.write_text(json.dumps([{
+                "name": "Test School", "district": "", "address": "123 Main St", "city": "Seattle",
+                "state": "WA", "zip": "98101", "country": "USA", "grades": "", "type": "",
+                "phone": "", "year": "", "mandarin": "", "model": "", "otherLang": "",
+                "website": "", "language": "Mandarin", "lat": 47.61, "lng": -122.33,
+                "approx": False,
+            }]), encoding="utf-8")
+            labels_json.write_text(json.dumps({"countries": [], "states": [], "cities": []}), encoding="utf-8")
+
+            wb = Workbook()
+            ws = wb.active
+            ws.title = "MIP List"
+            ws.append([
+                "School", "School District", "Address", "City", "State", "ZIP code", "Grades",
+                "Public/Charter/Private", "Phone number", "Year started", "% Mandarin time",
+                "Strand or Whole School", "Charter type", "Other Immersion Languages", "Website",
+            ])
+            ws.append(["Test School", "", "123 Main St", "Seattle", "WA", "98101", "K - 5", "Public", "", "", "50/50", "strand", "", "", ""])
+            wb.create_sheet("International").append(["International schools"])
+            wb.create_sheet("Cantonese").append(["Cantonese immersion"])
+            wb.save(xlsx)
+
+            old_argv = sys.argv
+            try:
+                sys.argv = [
+                    "ingest_spreadsheet.py", str(xlsx), "--html", str(html),
+                    "--schools-json", str(schools_json), "--labels-json", str(labels_json),
+                    "--geocode-cache", str(geocodes_json), "--no-geocode-missing",
+                ]
+                self.assertEqual(ingest.main(), 0)
+            finally:
+                sys.argv = old_argv
+
+            schools = json.loads(schools_json.read_text(encoding="utf-8"))
+            labels = json.loads(labels_json.read_text(encoding="utf-8"))
+            self.assertEqual(len(schools), 1)
+            self.assertEqual(schools[0]["name"], "Test School")
+            self.assertEqual(schools[0]["lat"], 47.61)
+            self.assertEqual(labels["cities"], [{"name": "Seattle", "lat": 47.61, "lng": -122.33, "n": 1}])
 
     def test_geocode_missing_uses_injected_nominatim_function(self):
         school = ingest.base_school()
