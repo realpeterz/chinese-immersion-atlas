@@ -4,12 +4,16 @@ An interactive web map of Chinese immersion programs.
 
 ## Files
 
-- `Chinese-Immersion-Atlas.html` — standalone interactive atlas page.
-- `mip-list-2026-1-17-1.xlsx` — source spreadsheet downloaded from the Mandarin Immersion Parents Council.
+- `Chinese-Immersion-Atlas.html` — interactive atlas page.
+- `data/schools.json` — generated school data loaded by the atlas.
+- `data/labels.json` — generated map label data loaded by the atlas.
+- `data/geocodes.json` — geocode cache used during spreadsheet ingestion.
+- `data/source/mip-list-2026-1-17-1.xlsx` — source spreadsheet downloaded from the Mandarin Immersion Parents Council.
+- `data/source/SOURCES.txt` — source URLs.
 
 ## Run locally
 
-Open `Chinese-Immersion-Atlas.html` in a browser, or serve the folder locally:
+Serve the folder locally:
 
 ```bash
 python3 -m http.server 8000
@@ -17,8 +21,30 @@ python3 -m http.server 8000
 
 Then visit <http://localhost:8000/Chinese-Immersion-Atlas.html>.
 
+## Ingest a new spreadsheet
+
+The atlas loads generated school data from `data/schools.json` and label data from `data/labels.json`. To refresh them from a newer MIP spreadsheet:
+
+```bash
+uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
+```
+
+The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. If a school is missing coordinates, the script fetches them from Nominatim/OpenStreetMap by default.
+
+To avoid network geocoding and only use cached/existing coordinates:
+
+```bash
+uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --no-geocode-missing
+```
+
+Review new `data/geocodes.json` entries after geocoding; automated geocoding can return approximate or incorrect matches.
+
+## Tests
+
+```bash
+uv run python -m unittest discover -s tests -v
+```
+
 ## Data source
 
-Spreadsheet downloaded from:
-
-<https://miparentscouncil.org/wp-content/uploads/2026/01/mip-list-2026-1-17-1.xlsx>
+See `data/source/SOURCES.txt`.

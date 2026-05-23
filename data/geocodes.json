@@ -1,0 +1,3250 @@
+{
+  "3e international school|no 9 1 side park jiang tai xi lu chaoyang district|beijing|||china": {
+    "approx": false,
+    "lat": 39.904,
+    "lng": 116.407,
+    "query": "3E International School, No. 9-1 Side Park\n\nJiang Tai Xi Lu Chaoyang District, Beijing, China",
+    "source": "existing-html"
+  },
+  "abbotsford primary school|lithgow street|abbotsford|victoria||australia": {
+    "approx": false,
+    "lat": -37.803,
+    "lng": 144.998,
+    "query": "Abbotsford Primary School, Lithgow Street, Abbotsford, Victoria, Australia",
+    "source": "existing-html"
+  },
+  "addams junior high school|700 springinsguth road|schaumburg|il|60193|usa": {
+    "approx": false,
+    "lat": 42.0093,
+    "lng": -88.0926,
+    "query": "Addams Junior High School, 700 Springinsguth Road, Schaumburg, IL, 60193, USA",
+    "source": "existing-html"
+  },
+  "adele young intermediate|830 law drive|brigham city|ut|84302|usa": {
+    "approx": false,
+    "lat": 41.511,
+    "lng": -112.1433,
+    "query": "Adele Young Intermediate, 830 Law Drive, Brigham City, UT, 84302, USA",
+    "source": "existing-html"
+  },
+  "adobe bluffs elementary school|8707 adobe bluffs drive|san diego|ca|92129|usa": {
+    "approx": false,
+    "lat": 32.9658,
+    "lng": -117.1262,
+    "query": "Adobe Bluffs Elementary School, 8707 Adobe Bluffs Drive,, San Diego, CA, 92129, USA",
+    "source": "existing-html"
+  },
+  "alice fong yu alternative school|1541 12th avenue|san francisco|ca|94122|usa": {
+    "approx": false,
+    "lat": 37.762,
+    "lng": -122.4831,
+    "query": "Alice Fong Yu Alternative School, 1541 12th Avenue, San Francisco, CA, 94122, USA",
+    "source": "existing-html"
+  },
+  "all souls world language catholic school|29 s electric ave|alhambra|ca|91801 1965|usa": {
+    "approx": false,
+    "lat": 34.0905,
+    "lng": -118.1346,
+    "query": "All Souls World Language Catholic School, 29 S Electric Ave, Alhambra, CA, 91801-1965, USA",
+    "source": "existing-html"
+  },
+  "allen j frear elementary school|238 sorghum mill rd|camden|de|19934 1935|usa": {
+    "approx": false,
+    "lat": 39.0931,
+    "lng": -75.6142,
+    "query": "Allen J. Frear Elementary School, 238 Sorghum Mill Rd, Camden, DE, 19934-1935, USA",
+    "source": "existing-html"
+  },
+  "alpine elementary|400 e 300 n|alpine|ut|84004 1435|usa": {
+    "approx": false,
+    "lat": 40.5075,
+    "lng": -111.6998,
+    "query": "Alpine Elementary, 400 E 300 N, Alpine, UT, 84004-1435, USA",
+    "source": "existing-html"
+  },
+  "alta high school|11055 south 1000 east|sandy|ut|84084|usa": {
+    "approx": false,
+    "lat": 40.6251,
+    "lng": -111.9663,
+    "query": "Alta High School, 11055 South 1000 East, Sandy, UT, 84084, USA",
+    "source": "existing-html"
+  },
+  "american international montessori school|3339 martin luther king jr way|berkeley|ca|94703 2720|usa": {
+    "approx": false,
+    "lat": 37.8657,
+    "lng": -122.2746,
+    "query": "American International Montessori School, 3339 Martin Luther King Jr Way, Berkeley, CA, 94703-2720, USA",
+    "source": "existing-html"
+  },
+  "anna silver p s 20|166 essex st|new york|ny|10002 1502|usa": {
+    "approx": false,
+    "lat": 40.7223,
+    "lng": -73.9855,
+    "query": "Anna Silver P.S. 20, 166 Essex St, New York, NY, 10002-1502, USA",
+    "source": "existing-html"
+  },
+  "apollo high school|1000 44th avenue north|saint cloud|mn|56303|usa": {
+    "approx": false,
+    "lat": 45.5808,
+    "lng": -94.2152,
+    "query": "Apollo High School, 1000 44th Avenue North, Saint Cloud, MN, 56303, USA",
+    "source": "existing-html"
+  },
+  "aptos middle school|105 aptos ave|san francisco|ca|94127 2520|usa": {
+    "approx": false,
+    "lat": 37.7324,
+    "lng": -122.4574,
+    "query": "Aptos Middle School, 105 Aptos Ave, San Francisco, CA, 94127-2520, USA",
+    "source": "existing-html"
+  },
+  "argentine chinese bilingual school school no 28||bueno aires|||argentina": {
+    "approx": true,
+    "lat": -34.6,
+    "lng": -58.4,
+    "query": "Argentine-Chinese Bilingual School (School No. 28), Bueno Aires, Argentina",
+    "source": "existing-html"
+  },
+  "arizona language preparatory|4645 e marilyn rd|phoenix|az|85032|usa": {
+    "approx": false,
+    "lat": 33.6254,
+    "lng": -112.0059,
+    "query": "Arizona Language Preparatory, 4645 E Marilyn Rd., Phoenix, AZ, 85032, USA",
+    "source": "existing-html"
+  },
+  "arrowhead elementary|545 arrowhead trail|santa clara|ut|84765|usa": {
+    "approx": false,
+    "lat": 37.1344,
+    "lng": -113.6491,
+    "query": "Arrowhead Elementary, 545 Arrowhead Trail, Santa Clara, UT, 84765, USA",
+    "source": "existing-html"
+  },
+  "aspen elementary|945 w 2000 n|orem|ut|84057 8616|usa": {
+    "approx": false,
+    "lat": 40.3128,
+    "lng": -111.7262,
+    "query": "Aspen Elementary, 945 W 2000 N, Orem, UT, 84057-8616, USA",
+    "source": "existing-html"
+  },
+  "athey creek middle school|2900 sw borland rd|tualatin|or|97062|usa": {
+    "approx": false,
+    "lat": 45.3653,
+    "lng": -122.7602,
+    "query": "Athey Creek Middle School, 2900 SW Borland Rd,, Tualatin, OR, 97062, USA",
+    "source": "existing-html"
+  },
+  "atlanta international school|2890 north fulton drive|atlanta|ga|30305|usa": {
+    "approx": false,
+    "lat": 33.8348,
+    "lng": -84.3884,
+    "query": "Atlanta International School, 2890 North Fulton Drive, Atlanta, GA, 30305, USA",
+    "source": "existing-html"
+  },
+  "atlanta trilingual academy|3676 stone rd sw|atlanta|ga|30331|usa": {
+    "approx": false,
+    "lat": 33.7248,
+    "lng": -84.5802,
+    "query": "Atlanta Trilingual Academy, 3676 Stone Rd SW, Atlanta, GA, 30331, USA",
+    "source": "existing-html"
+  },
+  "aubrey bend middle school|12501 w 175th st|overland park|ks|66221|usa": {
+    "approx": false,
+    "lat": 38.8619,
+    "lng": -94.7144,
+    "query": "Aubrey Bend Middle School, 12501 W 175th St, Overland Park, KS, 66221, USA",
+    "source": "existing-html"
+  },
+  "avenues the world school|259 10th ave|new york|ny|10001 7020|usa": {
+    "approx": false,
+    "lat": 40.7508,
+    "lng": -73.9961,
+    "query": "Avenues: The World School, 259 10th Ave, New York, NY, 10001-7020, USA",
+    "source": "existing-html"
+  },
+  "axis international academy|2700 s lemay avenue|ft collins|co|80525|usa": {
+    "approx": false,
+    "lat": 40.5145,
+    "lng": -105.0199,
+    "query": "AXIS International Academy, 2700 S. Lemay Avenue, Ft. Collins, CO, 80525, USA",
+    "source": "existing-html"
+  },
+  "baltimore international academy east|4410 frankford ave|baltimore|md|21206|usa": {
+    "approx": false,
+    "lat": 39.3346,
+    "lng": -76.5365,
+    "query": "Baltimore International Academy East, 4410 Frankford Ave., Baltimore, MD, 21206, USA",
+    "source": "existing-html"
+  },
+  "baltimore international academy west|4300 sidehill road|baltimore|md|21229|usa": {
+    "approx": false,
+    "lat": 39.281,
+    "lng": -76.6936,
+    "query": "Baltimore International Academy West, 4300 Sidehill Road, Baltimore, MD, 21229, USA",
+    "source": "existing-html"
+  },
+  "baltimore international academy|200 e north avenue|baltimore|md|21202|usa": {
+    "approx": false,
+    "lat": 39.2958,
+    "lng": -76.6078,
+    "query": "Baltimore International Academy, 200 E. North Avenue, Baltimore, MD, 21202, USA",
+    "source": "existing-html"
+  },
+  "bamboo shoots mandarin school|836 mountain ave|westfield|nj|07090 2362|usa": {
+    "approx": false,
+    "lat": 40.6532,
+    "lng": -74.3461,
+    "query": "Bamboo Shoots Mandarin School, 836 Mountain Ave, Westfield, NJ, 07090-2362, USA",
+    "source": "existing-html"
+  },
+  "barbara rose elementary school|61 w penny rd|south barrington|il|60010 9127|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "Barbara Rose Elementary School, 61 W Penny Rd, South Barrington, IL, 60010-9127, USA",
+    "source": "existing-html"
+  },
+  "barnard mandarin magnet elementary school|2445 fogg st|san diego|ca|92109 4855|usa": {
+    "approx": false,
+    "lat": 32.7907,
+    "lng": -117.2336,
+    "query": "Barnard Mandarin Magnet Elementary School, 2445 Fogg St, San Diego, CA, 92109-4855, USA",
+    "source": "existing-html"
+  },
+  "barnard mandarin magnet elementary school|4947 alton pkwy|irvine|ca|92604|usa": {
+    "approx": false,
+    "lat": 33.6903,
+    "lng": -117.7899,
+    "query": "Barnard Mandarin Magnet Elementary School, 4947 Alton Pkwy, Irvine, CA, 92604, USA",
+    "source": "existing-html"
+  },
+  "barrington high school|616 west main street|barrington|il|60010|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "Barrington High School, 616 West Main Street, Barrington, IL, 60010, USA",
+    "source": "existing-html"
+  },
+  "bartlett high school|1101 golden bear dr|anchorage|ak|99504|usa": {
+    "approx": false,
+    "lat": 61.2075,
+    "lng": -149.7415,
+    "query": "Bartlett High School, 1101 Golden Bear Dr., Anchorage, AK, 99504, USA",
+    "source": "existing-html"
+  },
+  "bates elementary|850 e 3100 n|north ogden|ut|84414 1737|usa": {
+    "approx": false,
+    "lat": 41.3173,
+    "lng": -111.962,
+    "query": "Bates Elementary, 850 E 3100 N, North Ogden, UT, 84414-1737, USA",
+    "source": "existing-html"
+  },
+  "batesville intermediate school|707 columbus ave|batesville|in|47006|usa": {
+    "approx": false,
+    "lat": 39.2899,
+    "lng": -85.2133,
+    "query": "Batesville Intermediate School, 707 Columbus Ave., Batesville, IN, 47006, USA",
+    "source": "existing-html"
+  },
+  "batesville middle school|201 n mulberry st|batesville|in|47006|usa": {
+    "approx": false,
+    "lat": 39.2899,
+    "lng": -85.2133,
+    "query": "Batesville Middle School, 201 N Mulberry St., Batesville, IN, 47006, USA",
+    "source": "existing-html"
+  },
+  "batesville primary school|760 state road 46 w|batesville|in|47006 9228|usa": {
+    "approx": false,
+    "lat": 39.2899,
+    "lng": -85.2133,
+    "query": "Batesville Primary School, 760 State Road 46 W, Batesville, IN, 47006-9228, USA",
+    "source": "existing-html"
+  },
+  "baton rouge foreign language academic immersion magnet|4510 bawell st|baton rouge|la|70808|usa": {
+    "approx": false,
+    "lat": 30.4003,
+    "lng": -91.1442,
+    "query": "Baton Rouge Foreign Language Academic Immersion Magnet, 4510 Bawell St., Baton Rouge, LA, 70808, USA",
+    "source": "existing-html"
+  },
+  "bayard rustin elementary school|332 w edmonston drive|rockville|md|20852|usa": {
+    "approx": false,
+    "lat": 39.0526,
+    "lng": -77.1232,
+    "query": "Bayard Rustin Elementary School, 332 W. Edmonston Drive, Rockville, MD, 20852, USA",
+    "source": "existing-html"
+  },
+  "bayside s t e m academy|2025 kehoe ave|san mateo|ca|94403 1061|usa": {
+    "approx": false,
+    "lat": 37.5407,
+    "lng": -122.3042,
+    "query": "Bayside S.T.E.M. Academy, 2025 Kehoe Ave, San Mateo, CA, 94403-1061, USA",
+    "source": "existing-html"
+  },
+  "beacon hill international school|2025 14th ave s|seattle|wa|98144 4205|usa": {
+    "approx": false,
+    "lat": 47.5839,
+    "lng": -122.2915,
+    "query": "Beacon Hill International School, 2025 14th Ave S, Seattle, WA, 98144-4205, USA",
+    "source": "existing-html"
+  },
+  "begich middle school|7440 creekside center drive|anchorage|ak|99504|usa": {
+    "approx": false,
+    "lat": 61.2075,
+    "lng": -149.7415,
+    "query": "Begich Middle School, 7440 Creekside Center Drive, Anchorage, AK, 99504, USA",
+    "source": "existing-html"
+  },
+  "bell tower school|3116 west main street|alhambra|ca|91801|usa": {
+    "approx": false,
+    "lat": 34.0905,
+    "lng": -118.1346,
+    "query": "Bell Tower School, 3116 West Main Street, Alhambra, CA, 91801, USA",
+    "source": "existing-html"
+  },
+  "belvedere elementary school|115 monterey avenue|belvedere|sc|29841|usa": {
+    "approx": false,
+    "lat": 33.5242,
+    "lng": -81.9418,
+    "query": "Belvedere Elementary School, 115 Monterey Avenue, Belvedere, SC, 29841, USA",
+    "source": "existing-html"
+  },
+  "ben franklin elementary school|5206 nw franklin st|vancouver|wa|98663 1636|usa": {
+    "approx": false,
+    "lat": 45.6523,
+    "lng": -122.6638,
+    "query": "Ben Franklin Elementary School, 5206 NW Franklin St, Vancouver, WA, 98663-1636, USA",
+    "source": "existing-html"
+  },
+  "bennion junior high|6055 s 2700 w|taylorsville|ut|84129 5134|usa": {
+    "approx": false,
+    "lat": 40.6402,
+    "lng": -112.0369,
+    "query": "Bennion Junior High, 6055 S 2700 W, Taylorsville, UT, 84129-5134, USA",
+    "source": "existing-html"
+  },
+  "bertrand hsu american chinese bicultural academy|455 arkansas street|san francisco|ca|94107|usa": {
+    "approx": false,
+    "lat": 37.7679,
+    "lng": -122.3929,
+    "query": "Bertrand Hsu American & Chinese Bicultural Academy, 455 Arkansas Street, San Francisco, CA, 94107, USA",
+    "source": "existing-html"
+  },
+  "betty reid soskin middle school|1121 allview avenue|el sobrante|ca|94803|usa": {
+    "approx": false,
+    "lat": 37.9629,
+    "lng": -122.2815,
+    "query": "Betty Reid Soskin Middle School, 1121 Allview Avenue, El Sobrante, CA, 94803, USA",
+    "source": "existing-html"
+  },
+  "bilingual global citizens public charter school|4095 minnesota avenue ne|washington|dc|20019|usa": {
+    "approx": false,
+    "lat": 38.8928,
+    "lng": -76.9405,
+    "query": "Bilingual Global Citizens Public Charter School, 4095 Minnesota Avenue NE, Washington, DC, 20019, USA",
+    "source": "existing-html"
+  },
+  "bingham high school|2160 s jordan parkway|south jordan|ut|84095|usa": {
+    "approx": false,
+    "lat": 40.5594,
+    "lng": -111.9824,
+    "query": "Bingham High School, 2160 S Jordan Parkway, South Jordan, UT, 84095, USA",
+    "source": "existing-html"
+  },
+  "black ridge elementary|9358 n sunset dr|eagle mountain|ut|84005 6259|usa": {
+    "approx": false,
+    "lat": 40.3215,
+    "lng": -112.005,
+    "query": "Black Ridge Elementary, 9358 N Sunset Dr, Eagle Mountain, UT, 84005-6259, USA",
+    "source": "existing-html"
+  },
+  "bloomington elementary|425 man o war rd|saint george|ut|84790 7920|usa": {
+    "approx": false,
+    "lat": 37.0648,
+    "lng": -113.5465,
+    "query": "Bloomington Elementary, 425 Man O War Rd, Saint George, UT, 84790-7920, USA",
+    "source": "existing-html"
+  },
+  "bolton primary school|5933 sw holmes street|west linn|or|97068|usa": {
+    "approx": false,
+    "lat": 45.3412,
+    "lng": -122.6624,
+    "query": "Bolton Primary School, 5933 SW Holmes Street, West Linn, OR, 97068, USA",
+    "source": "existing-html"
+  },
+  "bonneville high school|251 e 4800 s washington terrace|washington terrace|ut|84405|usa": {
+    "approx": false,
+    "lat": 41.1563,
+    "lng": -111.9349,
+    "query": "Bonneville High School, 251 E 4800 S, Washington Terrace,, Washington Terrace, UT, 84405, USA",
+    "source": "existing-html"
+  },
+  "bonneville junior high school|5330 gurene dr|holladay|ut|84117|usa": {
+    "approx": false,
+    "lat": 40.6607,
+    "lng": -111.8338,
+    "query": "Bonneville Junior High School, 5330 Gurene Dr., Holladay, UT, 84117, USA",
+    "source": "existing-html"
+  },
+  "braddock drive elementary school|4711 inglewood blvd|culver city|ca|90230 5823|usa": {
+    "approx": false,
+    "lat": 33.9954,
+    "lng": -118.3999,
+    "query": "Braddock Drive Elementary School, 4711 Inglewood Blvd, Culver City, CA, 90230-5823, USA",
+    "source": "existing-html"
+  },
+  "braddock middle school|909 holland st|cumberland|md|21502|usa": {
+    "approx": false,
+    "lat": 39.6294,
+    "lng": -78.7659,
+    "query": "Braddock Middle School, 909 Holland St., Cumberland, MD, 21502, USA",
+    "source": "existing-html"
+  },
+  "bret harte middle school|1047 e street|hayward|ca|94541|usa": {
+    "approx": false,
+    "lat": 37.674,
+    "lng": -122.0827,
+    "query": "Bret Harte Middle School, 1047 E. Street, Hayward, CA, 94541, USA",
+    "source": "existing-html"
+  },
+  "brighton high school|2220 bengal blvd 1800 e 7200 s 7530 s 2700 e 12943 south 700 east 13133 s 1300 e 1080 e 12660 s 11055 south 1000 east 11515 s high mesa dr 1180 e sanders rd davis school district 2275 s davis blvd 1155 n main st 625 s main st 1354 weaver ln 1450 s 2000 w 1503 s 2000 w|cottonwood heights|ut|84070|usa": {
+    "approx": false,
+    "lat": 40.5769,
+    "lng": -111.8952,
+    "query": "Brighton High School, 2220 Bengal Blvd.\n1800 E 7200 S  \n7530 S 2700 E  \n12943 South 700 East\n13133 S 1300 E  \n1080 E 12660 S  \n11055 South 1000 East\n11515 S High Mesa Dr  \n1180 E Sanders Rd  \nDavis School District\n2275 S Davis Blvd  \n1155 N Main St  \n625 S Main St  \n1354 Weaver Ln  \n1450 S 2000 W  \n1503 S 2000 W, Cottonwood Heights, UT, 84070, USA",
+    "source": "existing-html"
+  },
+  "brillian star school||saipan|||northern mariana islands": {
+    "approx": false,
+    "lat": 15.178,
+    "lng": 145.751,
+    "query": "Brillian Star School, Saipan, Northern Mariana Islands",
+    "source": "existing-html"
+  },
+  "broad river elementary school|474 broad river blvd|beaufort|sc|29906 9489|usa": {
+    "approx": false,
+    "lat": 32.4333,
+    "lng": -80.7714,
+    "query": "Broad River Elementary School, 474 Broad River Blvd, Beaufort, SC, 29906-9489, USA",
+    "source": "existing-html"
+  },
+  "broadway elementary school|1015 lincoln blvd|venice|ca|90291 3506|usa": {
+    "approx": false,
+    "lat": 33.9942,
+    "lng": -118.4637,
+    "query": "Broadway Elementary School, 1015 Lincoln Blvd, Venice, CA, 90291-3506, USA",
+    "source": "existing-html"
+  },
+  "buckey union mandarin immersion charter school|7701 silva valley parkway|el dorado hills|ca|95762|usa": {
+    "approx": false,
+    "lat": 38.6827,
+    "lng": -121.0755,
+    "query": "Buckey Union Mandarin Immersion Charter School, 7701 Silva Valley Parkway, El Dorado Hills, CA, 95762, USA",
+    "source": "existing-html"
+  },
+  "butler middle school|7530 s 2700 e|cottonwood heights|ut|84121 6228|usa": {
+    "approx": false,
+    "lat": 40.6166,
+    "lng": -111.7095,
+    "query": "Butler Middle School, 7530 S 2700 E, Cottonwood Heights, UT, 84121-6228, USA",
+    "source": "existing-html"
+  },
+  "caernarvon elementary school|14820 118 street nw|edmonton alberta||t5x 1t4|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Caernarvon Elementary School, 14820-118 Street NW, Edmonton, Alberta,, T5X 1T4, Canada",
+    "source": "existing-html"
+  },
+  "calvin smith elementary|2150 w 6200 s|taylorsville|ut|84129 1473|usa": {
+    "approx": false,
+    "lat": 40.6402,
+    "lng": -112.0369,
+    "query": "Calvin Smith Elementary, 2150 W 6200 S, Taylorsville, UT, 84129-1473, USA",
+    "source": "existing-html"
+  },
+  "campanelli elementary school|310 springinsguth road|schaumburg|il|60193|usa": {
+    "approx": false,
+    "lat": 42.0093,
+    "lng": -88.0926,
+    "query": "Campanelli Elementary School, 310 Springinsguth Road, Schaumburg, IL, 60193, USA",
+    "source": "existing-html"
+  },
+  "canadian international school||singapore|||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Canadian International School, Singapore, Singapore",
+    "source": "existing-html"
+  },
+  "canadian international school|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Canadian International School, Singapore",
+    "source": "existing-html"
+  },
+  "cantwell s bridge middle school|550 tony marchio drive|townsend|de|19734|usa": {
+    "approx": false,
+    "lat": 39.3745,
+    "lng": -75.6401,
+    "query": "Cantwell's Bridge Middle School, 550 Tony Marchio Drive, Townsend, DE, 19734, USA",
+    "source": "existing-html"
+  },
+  "canyon view jr high|655 e 950 n|orem|ut|84097 3443|usa": {
+    "approx": false,
+    "lat": 40.2971,
+    "lng": -111.6677,
+    "query": "Canyon View Jr. High, 655 E 950 N, Orem, UT, 84097-3443, USA",
+    "source": "existing-html"
+  },
+  "carver lyon elementary|2100 waverly st|columbia|sc|29204 1226|usa": {
+    "approx": false,
+    "lat": 34.0308,
+    "lng": -81.0014,
+    "query": "Carver-Lyon Elementary, 2100 Waverly St, Columbia, SC, 29204-1226, USA",
+    "source": "existing-html"
+  },
+  "cascade elementary|860 e 200 n st|orem|ut|84097|usa": {
+    "approx": false,
+    "lat": 40.2971,
+    "lng": -111.6677,
+    "query": "Cascade Elementary, 860 E 200 N St., Orem, UT, 84097, USA",
+    "source": "existing-html"
+  },
+  "castelar elementary|840 yale st|los angeles|ca|90012 2328|usa": {
+    "approx": false,
+    "lat": 34.0655,
+    "lng": -118.2405,
+    "query": "Castelar Elementary, 840 Yale St, Los Angeles, CA, 90012-2328, USA",
+    "source": "existing-html"
+  },
+  "cedar ridge elementary|65 n 200 w|hyde park|ut||usa": {
+    "approx": true,
+    "lat": 41.8027,
+    "lng": -111.8018,
+    "query": "Cedar Ridge Elementary, 65 N 200 W, Hyde Park, UT, USA",
+    "source": "existing-html"
+  },
+  "centennial middle school|305 e 2320 n|provo|ut|84604 5814|usa": {
+    "approx": false,
+    "lat": 40.3454,
+    "lng": -111.58,
+    "query": "Centennial Middle School, 305 E 2320 N, Provo, UT, 84604-5814, USA",
+    "source": "existing-html"
+  },
+  "centerville junior high|625 s main st|centerville|ut|84014 2253|usa": {
+    "approx": false,
+    "lat": 40.9375,
+    "lng": -111.9016,
+    "query": "Centerville Junior High, 625 S Main St, Centerville, UT, 84014-2253, USA",
+    "source": "existing-html"
+  },
+  "chapman elementary school|1947 marine ave|gardena|ca|90249|usa": {
+    "approx": false,
+    "lat": 33.8997,
+    "lng": -118.3177,
+    "query": "Chapman Elementary School, 1947 Marine Ave., Gardena, CA, 90249, USA",
+    "source": "existing-html"
+  },
+  "cherokee elementary school|475 cherokee rd|lake forest|il|60045 3155|usa": {
+    "approx": false,
+    "lat": 42.2401,
+    "lng": -87.872,
+    "query": "Cherokee Elementary School, 475 Cherokee Rd, Lake Forest, IL, 60045-3155, USA",
+    "source": "existing-html"
+  },
+  "cherrywood elementary school|2550 greengate dr|san jose|ca|95132|usa": {
+    "approx": false,
+    "lat": 37.409,
+    "lng": -121.8279,
+    "query": "Cherrywood Elementary School, 2550 Greengate Dr, San Jose, CA, 95132, USA",
+    "source": "existing-html"
+  },
+  "chief sealth international high school|2600 sw thistle st|seattle|wa|98126|usa": {
+    "approx": false,
+    "lat": 47.5518,
+    "lng": -122.3722,
+    "query": "Chief Sealth International High School, 2600 SW Thistle St., Seattle, WA, 98126, USA",
+    "source": "existing-html"
+  },
+  "chinese american international school|3250 19th avenue|san francisco|ca|94132|usa": {
+    "approx": false,
+    "lat": 37.723,
+    "lng": -122.4848,
+    "query": "Chinese American International School, 3250 19th Avenue, San Francisco, CA, 94132, USA",
+    "source": "existing-html"
+  },
+  "chinese immersion school at de avila|1250 waller street|san francisco|ca|94117|usa": {
+    "approx": false,
+    "lat": 37.7692,
+    "lng": -122.4425,
+    "query": "Chinese Immersion School at De Avila, 1250 Waller Street, San Francisco, CA, 94117, USA",
+    "source": "existing-html"
+  },
+  "chinese international school|1 hau yuen path|braemar hill|||hong kong": {
+    "approx": false,
+    "lat": 22.283,
+    "lng": 114.197,
+    "query": "Chinese International School, 1 Hau Yuen Path, Braemar Hill, Hong Kong",
+    "source": "existing-html"
+  },
+  "chinese international school|1 view street|chatswood|new south wales||australia": {
+    "approx": false,
+    "lat": -33.797,
+    "lng": 151.183,
+    "query": "Chinese International School, 1 View Street, Chatswood, New South Wales, Australia",
+    "source": "existing-html"
+  },
+  "chinese international school|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Chinese International School, Singapore",
+    "source": "existing-html"
+  },
+  "churchill high school|1850 bailey hill road|eugene|or|97405|usa": {
+    "approx": false,
+    "lat": 43.9292,
+    "lng": -123.1239,
+    "query": "Churchill High School, 1850 Bailey Hill Road, Eugene, OR, 97405, USA",
+    "source": "existing-html"
+  },
+  "city terrace elementary school|4350 city terrace dr|los angeles|ca|90063 1049|usa": {
+    "approx": false,
+    "lat": 34.0438,
+    "lng": -118.1875,
+    "query": "City Terrace Elementary School, 4350 City Terrace Dr, Los Angeles, CA, 90063-1049, USA",
+    "source": "existing-html"
+  },
+  "clark elementary|1231 se 92nd ave|portland|or|97216|usa": {
+    "approx": false,
+    "lat": 45.5134,
+    "lng": -122.5583,
+    "query": "Clark Elementary, 1231 SE 92nd Ave., Portland, OR, 97216, USA",
+    "source": "existing-html"
+  },
+  "cleveland high school|3400 se 26th ave|portland|or|97202 2130|usa": {
+    "approx": false,
+    "lat": 45.4803,
+    "lng": -122.6451,
+    "query": "Cleveland High School, 3400 SE 26th Ave, Portland, OR, 97202-2130, USA",
+    "source": "existing-html"
+  },
+  "college park elementary school|2380 notre dame rd|costa mesa|ca|92626 6400|usa": {
+    "approx": false,
+    "lat": 33.6791,
+    "lng": -117.9055,
+    "query": "College Park Elementary School, 2380 Notre Dame Rd, Costa Mesa, CA, 92626-6400, USA",
+    "source": "existing-html"
+  },
+  "college park elementary school|715 indian ave|san mateo|ca|94401 1768|usa": {
+    "approx": false,
+    "lat": 37.5742,
+    "lng": -122.3194,
+    "query": "College Park Elementary School, 715 Indian Ave, San Mateo, CA, 94401-1768, USA",
+    "source": "existing-html"
+  },
+  "colonial irvine|412 northmount drive nw|calgary ab||t2k 3h6|canada": {
+    "approx": false,
+    "lat": 51.045,
+    "lng": -114.072,
+    "query": "Colonial Irvine, 412 Northmount Drive NW, Calgary, AB, T2K 3H6, Canada",
+    "source": "existing-html"
+  },
+  "colorado international language academy|303 austin bluffs pkwy 7701 east first place 18451 ponderosa dr 2700 s lemay avenue 12415 grant street|colorado springs|co|80918|usa": {
+    "approx": false,
+    "lat": 38.9138,
+    "lng": -104.7819,
+    "query": "Colorado International Language Academy, 303 Austin Bluffs Pkwy\n7701 East First Place\n18451 Ponderosa Dr  \n2700 S. Lemay Avenue\n12415 Grant Street, Colorado Springs, CO, 80918, USA",
+    "source": "existing-html"
+  },
+  "columbia river high school|7512 800 nw 99th street|vancouver|wa|98665|usa": {
+    "approx": false,
+    "lat": 45.6799,
+    "lng": -122.6497,
+    "query": "Columbia River High school, 7512, 800 NW 99th Street, Vancouver, WA, 98665, USA",
+    "source": "existing-html"
+  },
+  "community middle school|95 grovers mill road|plainsboro|nj|08536|usa": {
+    "approx": false,
+    "lat": 40.3375,
+    "lng": -74.5876,
+    "query": "Community Middle School, 95 Grovers Mill Road, Plainsboro, NJ, 08536, USA",
+    "source": "existing-html"
+  },
+  "corner canyon high school|12943 south 700 east|draper|ut|84020|usa": {
+    "approx": false,
+    "lat": 40.493,
+    "lng": -111.8703,
+    "query": "Corner Canyon High School, 12943 South 700 East, Draper, UT, 84020, USA",
+    "source": "existing-html"
+  },
+  "cornerstone school|4243 manuela avenue|palo alto|ca|94306|usa": {
+    "approx": false,
+    "lat": 37.4118,
+    "lng": -122.1295,
+    "query": "Cornerstone School, 4243 Manuela Avenue, Palo Alto, CA, 94306, USA",
+    "source": "existing-html"
+  },
+  "coronado elementary school|4333 s deanza blvd|gilbert|az|85297 8973|usa": {
+    "approx": false,
+    "lat": 33.2793,
+    "lng": -111.7378,
+    "query": "Coronado Elementary School, 4333 S Deanza Blvd, Gilbert, AZ, 85297-8973, USA",
+    "source": "existing-html"
+  },
+  "cottonwood high school|5715 south 1300 east|murray|ut|84121|usa": {
+    "approx": false,
+    "lat": 40.6166,
+    "lng": -111.7095,
+    "query": "Cottonwood High School, 5715 South 1300 East, Murray, UT, 84121, USA",
+    "source": "existing-html"
+  },
+  "countryside elementary|205 w county line rd|barrington|il|60010 4055|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "Countryside Elementary, 205 W County Line Rd, Barrington, IL, 60010-4055, USA",
+    "source": "existing-html"
+  },
+  "cox mill elementary|1450 cox mill rd|concord|nc|28027 7566|usa": {
+    "approx": false,
+    "lat": 35.4197,
+    "lng": -80.6758,
+    "query": "Cox Mill Elementary, 1450 Cox Mill Rd, Concord, NC, 28027-7566, USA",
+    "source": "existing-html"
+  },
+  "crimson cliffs high school|4430 south crimson cliffs wy|washington|ut|84780|usa": {
+    "approx": false,
+    "lat": 37.1544,
+    "lng": -113.4692,
+    "query": "Crimson Cliffs High School, 4430 South Crimson Cliffs Wy,, Washington, UT, 84780, USA",
+    "source": "existing-html"
+  },
+  "crimson cliffs middle school|4280 crimson clfs wy|washington|ut|84790|usa": {
+    "approx": false,
+    "lat": 37.0648,
+    "lng": -113.5465,
+    "query": "Crimson Cliffs Middle School, 4280 Crimson Clfs Wy,, Washington, UT, 84790, USA",
+    "source": "existing-html"
+  },
+  "cvc newbridge academy|semiahmoo peninsula|surrey bc|||canada": {
+    "approx": false,
+    "lat": 49.191,
+    "lng": -122.849,
+    "query": "CVC Newbridge Academy, Semiahmoo Peninsula, Surrey, BC, Canada",
+    "source": "existing-html"
+  },
+  "cy middle school|2900 cyclone dr|casper|wy|82604|usa": {
+    "approx": false,
+    "lat": 42.9664,
+    "lng": -106.8071,
+    "query": "CY Middle School, 2900 Cyclone Dr., Casper, WY, 82604, USA",
+    "source": "existing-html"
+  },
+  "dalton elementary school|500 e 10th street|azusa|ca|91702|usa": {
+    "approx": false,
+    "lat": 34.1381,
+    "lng": -117.9122,
+    "query": "Dalton Elementary School, 500 E 10th Street, Azusa, CA, 91702, USA",
+    "source": "existing-html"
+  },
+  "dearborne park international elementary school|2500 south state street|salt lake city|ut|84115|usa": {
+    "approx": false,
+    "lat": 40.7142,
+    "lng": -111.8931,
+    "query": "Dearborne Park International Elementary School, 2500 South State Street, Salt Lake City, UT, 84115, USA",
+    "source": "existing-html"
+  },
+  "dearborne park international elementary school|2820 s orcas st|seattle|wa|98108 3066|usa": {
+    "approx": false,
+    "lat": 47.5411,
+    "lng": -122.3133,
+    "query": "Dearborne Park International Elementary School, 2820 S Orcas St, Seattle, WA, 98108-3066, USA",
+    "source": "existing-html"
+  },
+  "denver language school gilpin campus|2949 california street|denver|co|80205|usa": {
+    "approx": false,
+    "lat": 39.7583,
+    "lng": -104.9677,
+    "query": "Denver Language School - Gilpin Campus, 2949 California Street, Denver, CO, 80205, USA",
+    "source": "existing-html"
+  },
+  "denver language school whiteman campus||denver|co|80220 6019|usa": {
+    "approx": false,
+    "lat": 39.7311,
+    "lng": -104.9127,
+    "query": "Denver Language School – Whiteman Campus, Denver, CO, 80220-6019, USA",
+    "source": "existing-html"
+  },
+  "desert canyon elementary|10203 e mcdowell mountain ranch rd|scottsdale|az|85255 8600|usa": {
+    "approx": false,
+    "lat": 33.6636,
+    "lng": -111.8085,
+    "query": "Desert Canyon Elementary, 10203 E McDowell Mountain Ranch Rd, Scottsdale, AZ, 85255-8600, USA",
+    "source": "existing-html"
+  },
+  "desert canyon middle|10203 e mcdowell mountain ranch rd|scottsdale|az|85244|usa": {
+    "approx": false,
+    "lat": 33.3064,
+    "lng": -111.8406,
+    "query": "Desert Canyon Middle, 10203 E McDowell Mountain Ranch Rd, Scottsdale, AZ, 85244, USA",
+    "source": "existing-html"
+  },
+  "desert mountain high school|12575 e via linda|scottsdale|az|85259|usa": {
+    "approx": false,
+    "lat": 33.5899,
+    "lng": -111.8088,
+    "query": "Desert Mountain High School, 12575 E Via Linda, Scottsdale, AZ, 85259, USA",
+    "source": "existing-html"
+  },
+  "desert sage school|4035 w alameda rd|glendale|az|85310 3304|usa": {
+    "approx": false,
+    "lat": 33.7045,
+    "lng": -112.1778,
+    "query": "Desert Sage School, 4035 W Alameda Rd, Glendale, AZ, 85310-3304, USA",
+    "source": "existing-html"
+  },
+  "district of columbia international school|1400 main drive nw|washington|dc|20012|usa": {
+    "approx": false,
+    "lat": 38.9783,
+    "lng": -77.0285,
+    "query": "District of Columbia International School, 1400 Main Drive NW, Washington, DC, 20012, USA",
+    "source": "existing-html"
+  },
+  "dixie high school|350 e 700 s|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Dixie High School, 350 E 700 S, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "dixie middle school|929 s 100 e|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Dixie Middle School, 929 S 100 E, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "dixie middle|350 e 700 s st|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Dixie Middle, 350 E 700 S, St, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "doss elementary school|7005 northledge dr|austin|tx|78731 2933|usa": {
+    "approx": false,
+    "lat": 30.345,
+    "lng": -97.7702,
+    "query": "Doss Elementary School, 7005 Northledge Dr, Austin, TX, 78731-2933, USA",
+    "source": "existing-html"
+  },
+  "dovercourt elementary school|13910 122 avenue nw|edmonton alberta||t5l 2w3|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Dovercourt Elementary School, 13910-122 Avenue NW, Edmonton, Alberta,, T5L 2W3, Canada",
+    "source": "existing-html"
+  },
+  "dr annie b jamieson elementary|6350 tisdall street|vancouver bc||v5z 3n4|canada": {
+    "approx": false,
+    "lat": 49.283,
+    "lng": -123.121,
+    "query": "Dr. Annie B. Jamieson Elementary, 6350 Tisdall Street, Vancouver, BC, V5Z 3N4, Canada",
+    "source": "existing-html"
+  },
+  "draper elementary|1080 e 12660 s|draper|ut|84020 9307|usa": {
+    "approx": false,
+    "lat": 40.493,
+    "lng": -111.8703,
+    "query": "Draper Elementary, 1080 E 12660 S, Draper, UT, 84020-9307, USA",
+    "source": "existing-html"
+  },
+  "draper park middle school|13133 s 1300 e|draper|ut|84020 9153|usa": {
+    "approx": false,
+    "lat": 40.493,
+    "lng": -111.8703,
+    "query": "Draper Park Middle School, 13133 S 1300 E, Draper, UT, 84020-9153, USA",
+    "source": "existing-html"
+  },
+  "eagle point elementary|7850 15th street north|oakdale|mn|55128|usa": {
+    "approx": false,
+    "lat": 44.9923,
+    "lng": -92.9594,
+    "query": "Eagle Point Elementary, 7850 15th Street North, Oakdale, MN, 55128, USA",
+    "source": "existing-html"
+  },
+  "early learning center|40 e dundee rd|barrington|il|60010 5227|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "Early Learning Center, 40 E Dundee Rd, Barrington, IL, 60010-5227, USA",
+    "source": "existing-html"
+  },
+  "east carey middle school|1111 se maynard|cary|nc|27511|usa": {
+    "approx": false,
+    "lat": 35.7596,
+    "lng": -78.7795,
+    "query": "East Carey Middle School, 1111 SE Maynard, Cary, NC, 27511, USA",
+    "source": "existing-html"
+  },
+  "east link academy|78 global drive 200|greenville|sc|29608 4487|usa": {
+    "approx": false,
+    "lat": 34.8526,
+    "lng": -82.3943,
+    "query": "East Link Academy, 78 Global Drive #200, Greenville, SC, 29608-4487, USA",
+    "source": "existing-html"
+  },
+  "east point academy elementary campus|1043 chris dr|west columbia|sc|29196|usa": {
+    "approx": true,
+    "lat": 33.991,
+    "lng": -81.1009,
+    "query": "East Point Academy Elementary Campus, 1043 Chris Dr., West Columbia, SC, 29196, USA",
+    "source": "existing-html"
+  },
+  "east point academy middle school|1401 leaphart st|west columbia|sc|29169|usa": {
+    "approx": false,
+    "lat": 33.991,
+    "lng": -81.1009,
+    "query": "East Point Academy Middle School, 1401 Leaphart St., West Columbia, SC, 29169, USA",
+    "source": "existing-html"
+  },
+  "east voyager academy|7429 tuckaseegee road|charlotte|nc|28214|usa": {
+    "approx": false,
+    "lat": 35.2792,
+    "lng": -80.9552,
+    "query": "East Voyager Academy, 7429 Tuckaseegee Road, Charlotte, NC, 28214, USA",
+    "source": "existing-html"
+  },
+  "eastlake elementary|4389 w isla daybreak rd|south jordan|ut|84009 7781|usa": {
+    "approx": false,
+    "lat": 40.5554,
+    "lng": -112.018,
+    "query": "Eastlake Elementary, 4389 W Isla Daybreak Rd, South Jordan, UT, 84009-7781, USA",
+    "source": "existing-html"
+  },
+  "el capitan high school|10410 ashwood st|lakeside|ca|92040 2406|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "El Capitan High School, 10410 Ashwood St, Lakeside, CA, 92040-2406, USA",
+    "source": "existing-html"
+  },
+  "el capitan high school|10410 ashwood st|lakeside|ca|92040|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "El Capitan High School, 10410 Ashwood St, Lakeside, CA, 92040, USA",
+    "source": "existing-html"
+  },
+  "el sereno middle school|2839 n eastern ave|los angeles|ca|90032 2701|usa": {
+    "approx": false,
+    "lat": 34.0826,
+    "lng": -118.1773,
+    "query": "El Sereno Middle School, 2839 N Eastern Ave, Los Angeles, CA, 90032-2701, USA",
+    "source": "existing-html"
+  },
+  "elder creek elementary|7934 lemon hill avenue|sacramento|ca|95826|usa": {
+    "approx": false,
+    "lat": 38.5491,
+    "lng": -121.3831,
+    "query": "Elder Creek Elementary, 7934 Lemon Hill Avenue, Sacramento, CA, 95826, USA",
+    "source": "existing-html"
+  },
+  "emanuele elementary|100 decoto road|union city|ca|94587|usa": {
+    "approx": false,
+    "lat": 37.6021,
+    "lng": -122.0444,
+    "query": "Emanuele Elementary, 100 Decoto Road, Union City, CA, 94587, USA",
+    "source": "existing-html"
+  },
+  "encinita elementary school|4515 encinita avenue|rosemead|ca|91770|usa": {
+    "approx": false,
+    "lat": 34.0625,
+    "lng": -118.082,
+    "query": "Encinita Elementary School, 4515 Encinita Avenue, Rosemead, CA, 91770, USA",
+    "source": "existing-html"
+  },
+  "epsom college in malaysia|71760 bandar enstek|negeri sembilan darul khusus|||malaysia": {
+    "approx": false,
+    "lat": 2.78,
+    "lng": 101.783,
+    "query": "Epsom College in Malaysia, 71760 Bandar Enstek, Negeri Sembilan Darul Khusus, Malaysia",
+    "source": "existing-html"
+  },
+  "eric hamber secondary school|5025 willow street|vancouver bc||v5z 3s1|canada": {
+    "approx": false,
+    "lat": 49.283,
+    "lng": -123.121,
+    "query": "Eric Hamber Secondary School, 5025 Willow Street, Vancouver, BC, V5Z 3S1, Canada",
+    "source": "existing-html"
+  },
+  "etonhouse broadrick|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "EtonHouse Broadrick, Singapore",
+    "source": "existing-html"
+  },
+  "eugene field elementary school|3600 e sierra madre blvd|pasadena|ca|91107 1969|usa": {
+    "approx": false,
+    "lat": 34.162,
+    "lng": -118.0894,
+    "query": "Eugene Field Elementary School, 3600 E Sierra Madre Blvd, Pasadena, CA, 91107-1969, USA",
+    "source": "existing-html"
+  },
+  "excelsior elementary school|441 oak st|excelsior|mn|55331 3035|usa": {
+    "approx": false,
+    "lat": 44.8985,
+    "lng": -93.6256,
+    "query": "Excelsior Elementary School, 441 Oak St, Excelsior, MN, 55331-3035, USA",
+    "source": "existing-html"
+  },
+  "faxon language immersion academy|26275 northwestern hwy|southfield|mi|48076|usa": {
+    "approx": false,
+    "lat": 42.4982,
+    "lng": -83.2322,
+    "query": "Faxon Language Immersion Academy, 26275 Northwestern Hwy., Southfield, MI, 48076, USA",
+    "source": "existing-html"
+  },
+  "fiddlers canyon elementary|475 e 1935 n|cedar city|ut|84721|usa": {
+    "approx": false,
+    "lat": 37.6777,
+    "lng": -113.0612,
+    "query": "Fiddlers Canyon Elementary, 475 E 1935 N., Cedar City, UT, 84721, USA",
+    "source": "existing-html"
+  },
+  "fifer middle school|109 e camden wyoming avenue|camden|de|19934|usa": {
+    "approx": false,
+    "lat": 39.0931,
+    "lng": -75.6142,
+    "query": "Fifer Middle School, 109 E. Camden-Wyoming Avenue, Camden, DE, 19934, USA",
+    "source": "existing-html"
+  },
+  "fletcher elementary school|2730 del mar avenue|rosemead|ca|91770|usa": {
+    "approx": false,
+    "lat": 34.0625,
+    "lng": -118.082,
+    "query": "Fletcher Elementary School, 2730 Del Mar Avenue, Rosemead, CA, 91770, USA",
+    "source": "existing-html"
+  },
+  "fletcher elementary school|515 w fletcher ave|orange|ca|92865 2521|usa": {
+    "approx": false,
+    "lat": 33.8298,
+    "lng": -117.8505,
+    "query": "Fletcher Elementary School, 515 W Fletcher Ave, Orange, CA, 92865-2521, USA",
+    "source": "existing-html"
+  },
+  "florence nightingale middle school|3311 n figurosa street|los angeles|ca|90065|usa": {
+    "approx": false,
+    "lat": 34.1115,
+    "lng": -118.2286,
+    "query": "Florence Nightingale Middle School, 3311 N. Figurosa Street, Los Angeles, CA, 90065, USA",
+    "source": "existing-html"
+  },
+  "foothill elementary|820 n 100 e|brigham city|ut|84302 1406|usa": {
+    "approx": false,
+    "lat": 41.511,
+    "lng": -112.1433,
+    "query": "Foothill Elementary, 820 N 100 E, Brigham City, UT, 84302-1406, USA",
+    "source": "existing-html"
+  },
+  "foothills elementary|13717 s shaggy peak dr|riverton|ut|84096 6480|usa": {
+    "approx": false,
+    "lat": 40.4892,
+    "lng": -112.0507,
+    "query": "Foothills Elementary, 13717 S Shaggy Peak Dr, Riverton, UT, 84096-6480, USA",
+    "source": "existing-html"
+  },
+  "foreign language academy|3450 warwick blvd|kansas city|mo|64111|usa": {
+    "approx": false,
+    "lat": 39.0573,
+    "lng": -94.5937,
+    "query": "Foreign Language Academy, 3450 Warwick Blvd., Kansas City, MO, 64111, USA",
+    "source": "existing-html"
+  },
+  "foreign language academy|||||usa": {
+    "approx": false,
+    "lat": 39.0573,
+    "lng": -94.5937,
+    "query": "Foreign Language Academy, USA",
+    "source": "existing-html"
+  },
+  "forest grove elemetnary|8525 forest grove|burnaby bc|||canada": {
+    "approx": false,
+    "lat": 49.249,
+    "lng": -122.98,
+    "query": "Forest Grove Elemetnary, 8525 Forest Grove, Burnaby, BC, Canada",
+    "source": "existing-html"
+  },
+  "forest hills northern trails|6590 cascade rd se|grand rapids|mi|49546 6428|usa": {
+    "approx": false,
+    "lat": 42.9251,
+    "lng": -85.5391,
+    "query": "Forest Hills Northern Trails, 6590 Cascade Rd SE, Grand Rapids, MI, 49546-6428, USA",
+    "source": "existing-html"
+  },
+  "fresh meadows p s 173|174 10 67 avenue|queens|ny|11365|usa": {
+    "approx": false,
+    "lat": 40.7395,
+    "lng": -73.794,
+    "query": "Fresh Meadows P.S. 173, 174-10 67 Avenue, Queens, NY, 11365-, USA",
+    "source": "existing-html"
+  },
+  "frontiers academy|102 baker street east|costa mesa|ca|92626|usa": {
+    "approx": false,
+    "lat": 33.6791,
+    "lng": -117.9055,
+    "query": "Frontiers Academy, 102 Baker Street East, Costa Mesa, CA, 92626, USA",
+    "source": "existing-html"
+  },
+  "garfield elementary|420 filbert street|san francisco|ca|94133|usa": {
+    "approx": false,
+    "lat": 37.8117,
+    "lng": -122.413,
+    "query": "Garfield Elementary, 420 Filbert Street,, San Francisco, CA, 94133, USA",
+    "source": "existing-html"
+  },
+  "gates elementary|10001 courthouse road|chesterfield|va|23832|usa": {
+    "approx": false,
+    "lat": 37.4088,
+    "lng": -77.6085,
+    "query": "Gates Elementary, 10001 Courthouse Road, Chesterfield, VA, 23832, USA",
+    "source": "existing-html"
+  },
+  "gateway school of language and culture|10901 w mcmillan rd|boise|id|83713 2634|usa": {
+    "approx": false,
+    "lat": 43.6339,
+    "lng": -116.3396,
+    "query": "Gateway School of Language and Culture, 10901 W McMillan Rd, Boise, ID, 83713-2634, USA",
+    "source": "existing-html"
+  },
+  "gavilan peak school|2701 w memorial dr|anthem|az|85086 4955|usa": {
+    "approx": false,
+    "lat": 33.8597,
+    "lng": -112.1159,
+    "query": "Gavilan Peak School, 2701 W Memorial Dr, Anthem, AZ, 85086-4955, USA",
+    "source": "existing-html"
+  },
+  "german international school|3900 sw murray blvd|beaverton|or|97005|usa": {
+    "approx": false,
+    "lat": 45.4965,
+    "lng": -122.7999,
+    "query": "German International School, 3900 SW Murray Blvd., Beaverton, OR, 97005, USA",
+    "source": "existing-html"
+  },
+  "gilkey international middle school|8500 nw johnson st|portland|or|97229 6780|usa": {
+    "approx": false,
+    "lat": 45.5544,
+    "lng": -122.8113,
+    "query": "Gilkey International Middle School, 8500 NW Johnson St, Portland, OR, 97229-6780, USA",
+    "source": "existing-html"
+  },
+  "glenwood elementary school|2 prestwick rd|chapel hill|nc|27517 4428|usa": {
+    "approx": false,
+    "lat": 35.841,
+    "lng": -79.0298,
+    "query": "Glenwood Elementary School, 2 Prestwick Rd, Chapel Hill, NC, 27517-4428, USA",
+    "source": "existing-html"
+  },
+  "global ambassadors language academy|13400 lorain ave|cleveland|oh|44111 3432|usa": {
+    "approx": false,
+    "lat": 41.4598,
+    "lng": -81.7948,
+    "query": "Global Ambassadors Language Academy, 13400 Lorain Ave, Cleveland, OH, 44111-3432, USA",
+    "source": "existing-html"
+  },
+  "global citizens public charter school|4095 minnesota avenue ne|washington|dc|20019|usa": {
+    "approx": false,
+    "lat": 38.8928,
+    "lng": -76.9405,
+    "query": "Global Citizens Public Charter School, 4095 Minnesota Avenue NE,, Washington, DC, 20019, USA",
+    "source": "existing-html"
+  },
+  "global montessori international school|2830 9th st|berkeley|ca|94710 2709|usa": {
+    "approx": false,
+    "lat": 37.8715,
+    "lng": -122.3071,
+    "query": "Global Montessori International School, 2830 9th St, Berkeley, CA, 94710-2709, USA",
+    "source": "existing-html"
+  },
+  "global village academy aurora east west campus|403 s airport blvd 4th 8|aurora|co|80017 3900|usa": {
+    "approx": false,
+    "lat": 39.6981,
+    "lng": -104.7818,
+    "query": "Global Village Academy Aurora East & West Campus, 403 S Airport Blvd # 4TH-8, Aurora, CO, 80017-3900, USA",
+    "source": "existing-html"
+  },
+  "global village academy aurora|451 newport st|aurora|co|80017|usa": {
+    "approx": false,
+    "lat": 39.6981,
+    "lng": -104.7818,
+    "query": "Global Village Academy, Aurora, 451 Newport St, Aurora, CO, 80017, USA",
+    "source": "existing-html"
+  },
+  "global village academy douglas county|18451 ponderosa dr|douglas county|co|90234|usa": {
+    "approx": true,
+    "lat": 39.0,
+    "lng": -105.5,
+    "query": "Global Village Academy, Douglas County, 18451 Ponderosa Dr, Douglas County, CO, 90234-, USA",
+    "source": "existing-html"
+  },
+  "global village academy northglenn|12415 grant street|thornton|co|80241|usa": {
+    "approx": false,
+    "lat": 39.9284,
+    "lng": -104.9558,
+    "query": "Global Village Academy, Northglenn, 12415 Grant Street, Thornton, CO, 80241, USA",
+    "source": "existing-html"
+  },
+  "globe academy|2225 heritage dr ne|atlanta|ga|30345 3534|usa": {
+    "approx": false,
+    "lat": 33.8451,
+    "lng": -84.2809,
+    "query": "GLOBE Academy, 2225 Heritage Dr NE, Atlanta, GA, 30345-3534, USA",
+    "source": "existing-html"
+  },
+  "greenville high school|111 north hillcrest street|greenville|mi|48838|usa": {
+    "approx": false,
+    "lat": 43.2085,
+    "lng": -85.2723,
+    "query": "Greenville High School, 111 North Hillcrest Street, Greenville, MI, 48838, USA",
+    "source": "existing-html"
+  },
+  "greenville middle school|1321 chase street|greenville|mi|48838|usa": {
+    "approx": false,
+    "lat": 43.2085,
+    "lng": -85.2723,
+    "query": "Greenville Middle School, 1321 Chase Street, Greenville, MI, 48838, USA",
+    "source": "existing-html"
+  },
+  "guang ming academy madison elementary|2805 9th st north|saint cloud|mn|56303 2301|usa": {
+    "approx": false,
+    "lat": 45.5808,
+    "lng": -94.2152,
+    "query": "Guang Ming Academy (Madison Elementary), 2805 9th St North, Saint Cloud, MN, 56303-2301, USA",
+    "source": "existing-html"
+  },
+  "h l n chinese immersion elementary school|2200 bailey hill road|eugene|or|97405|usa": {
+    "approx": false,
+    "lat": 43.9292,
+    "lng": -123.1239,
+    "query": "Hé Lín Chinese Immersion Elementary School, 2200 Bailey Hill Road, Eugene, OR, 97405, USA",
+    "source": "existing-html"
+  },
+  "hand middle school|2600 wheat street|columbia|sc|29205|usa": {
+    "approx": false,
+    "lat": 33.986,
+    "lng": -80.9975,
+    "query": "Hand Middle School, 2600 Wheat Street, Columbia, SC, 29205, USA",
+    "source": "existing-html"
+  },
+  "harriet tubman middle school|2231 north flint avenue|portland|or|97227|usa": {
+    "approx": false,
+    "lat": 45.5403,
+    "lng": -122.677,
+    "query": "Harriet Tubman Middle School, 2231 North Flint Avenue, Portland, OR, 97227, USA",
+    "source": "existing-html"
+  },
+  "harrisburg elementary|3900 stallings road|harrisburg|nc|28075|usa": {
+    "approx": false,
+    "lat": 35.2989,
+    "lng": -80.6475,
+    "query": "Harrisburg Elementary, 3900 Stallings Road, Harrisburg, NC, 28075, USA",
+    "source": "existing-html"
+  },
+  "harrison park middle school|2225 se 87th ave|portland|or|97216|usa": {
+    "approx": false,
+    "lat": 45.5134,
+    "lng": -122.5583,
+    "query": "Harrison Park Middle School, 2225 SE 87th Ave, Portland, OR, 97216, USA",
+    "source": "existing-html"
+  },
+  "haven elementary school|5111 dillon avenue|savanna|ga|31405|usa": {
+    "approx": false,
+    "lat": 32.0364,
+    "lng": -81.1684,
+    "query": "Haven Elementary School, 5111 Dillon Avenue, Savanna, GA, 31405, USA",
+    "source": "existing-html"
+  },
+  "herbert hoover middle school|2290 14th avenue|san francisco|ca|94116|usa": {
+    "approx": false,
+    "lat": 37.7443,
+    "lng": -122.4843,
+    "query": "Herbert Hoover Middle School, 2290 14th Avenue, San Francisco, CA, 94116, USA",
+    "source": "existing-html"
+  },
+  "herbert hoover middle school|6300 tilden ln|rockville|md|20852 3741|usa": {
+    "approx": false,
+    "lat": 39.0526,
+    "lng": -77.1232,
+    "query": "Herbert Hoover Middle School, 6300 Tilden Ln, Rockville, MD, 20852-3741, USA",
+    "source": "existing-html"
+  },
+  "heritage elementary|1354 weaver ln|layton|ut|84041 7310|usa": {
+    "approx": false,
+    "lat": 41.0501,
+    "lng": -112.034,
+    "query": "Heritage Elementary, 1354 Weaver Ln, Layton, UT, 84041-7310, USA",
+    "source": "existing-html"
+  },
+  "herriman high school|11917 south mustang trail way|south jordan|ut|84096|usa": {
+    "approx": false,
+    "lat": 40.4892,
+    "lng": -112.0507,
+    "query": "Herriman High School, 11917 South Mustang Trail Way, South Jordan, UT, 84096, USA",
+    "source": "existing-html"
+  },
+  "hiba academy bay area|99 rhode island street|san francisco|ca|94103|usa": {
+    "approx": false,
+    "lat": 37.7755,
+    "lng": -122.4129,
+    "query": "Hiba Academy Bay Area, 99 Rhode Island Street, San Francisco, CA, 94103, USA",
+    "source": "existing-html"
+  },
+  "hidden trails elementary school|2250 ridgeview drive|chino hills|ca|91709|usa": {
+    "approx": false,
+    "lat": 33.9474,
+    "lng": -117.7289,
+    "query": "Hidden Trails Elementary School, 2250 Ridgeview Drive, Chino Hills, CA, 91709, USA",
+    "source": "existing-html"
+  },
+  "high school for dual language and asian studies|350 grand st|new york|ny|10002 4629|usa": {
+    "approx": false,
+    "lat": 40.7223,
+    "lng": -73.9855,
+    "query": "High School for Dual Language and Asian Studies, 350 Grand St, New York, NY, 10002-4629, USA",
+    "source": "existing-html"
+  },
+  "highland park high school|1015 snelling ave s|saint paul|mn|55116|usa": {
+    "approx": false,
+    "lat": 44.9108,
+    "lng": -93.1703,
+    "query": "Highland Park High School, 1015 Snelling Ave. S., Saint Paul, MN, 55116, USA",
+    "source": "existing-html"
+  },
+  "highwood school|11 holmwood ave n w|calgary ab||t2k 2g5|canada": {
+    "approx": false,
+    "lat": 51.045,
+    "lng": -114.072,
+    "query": "Highwood School, 11 Holmwood Ave N.W., Calgary, AB, T2K 2G5, Canada",
+    "source": "existing-html"
+  },
+  "hillside world academy||singapore|||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Hillside World Academy, Singapore, Singapore",
+    "source": "existing-html"
+  },
+  "hilton head island elementary school|30 school rd|hilton head island|sc|29926 1686|usa": {
+    "approx": false,
+    "lat": 32.222,
+    "lng": -80.7531,
+    "query": "Hilton Head Island Elementary School, 30 School Rd, Hilton Head Island, SC, 29926-1686, USA",
+    "source": "existing-html"
+  },
+  "holland christian high school|950 ottawa avenue|holland|mi|49423|usa": {
+    "approx": false,
+    "lat": 42.741,
+    "lng": -86.066,
+    "query": "Holland Christian High School, 950 Ottawa Avenue, Holland, MI, 49423, USA",
+    "source": "existing-html"
+  },
+  "hong kong international school|1 red hill road tai tam||||hong kong": {
+    "approx": false,
+    "lat": 22.243,
+    "lng": 114.214,
+    "query": "Hong Kong International School, 1 Red hill Road, Tai Tam, Hong Kong",
+    "source": "existing-html"
+  },
+  "hope chinese charter school|3500 sw 104th avenue|beaverton|or|97005|usa": {
+    "approx": false,
+    "lat": 45.4965,
+    "lng": -122.7999,
+    "query": "Hope Chinese Charter School, 3500 SW 104th Avenue, Beaverton, OR, 97005, USA",
+    "source": "existing-html"
+  },
+  "hope international school||charlottetown prince edward island|||canada": {
+    "approx": false,
+    "lat": 46.238,
+    "lng": -63.131,
+    "query": "Hope International School, Charlottetown, Prince Edward Island, Canada",
+    "source": "existing-html"
+  },
+  "hopkins high school|2400 lindbergh drive|hopkins|mn|55305|usa": {
+    "approx": false,
+    "lat": 44.952,
+    "lng": -93.4361,
+    "query": "Hopkins High School, 2400 Lindbergh Drive |, Hopkins, MN, 55305 |, USA",
+    "source": "existing-html"
+  },
+  "hopkins junior high|600 driscoll road|fremont|ca|94539|usa": {
+    "approx": false,
+    "lat": 37.5288,
+    "lng": -121.9103,
+    "query": "Hopkins Junior High, 600 Driscoll Road, Fremont, CA, 94539, USA",
+    "source": "existing-html"
+  },
+  "hopkins west junior high|3830 baker road|hopkins|mn|55305|usa": {
+    "approx": false,
+    "lat": 44.952,
+    "lng": -93.4361,
+    "query": "Hopkins West Junior High, 3830 Baker Road, Hopkins, MN, 55305, USA",
+    "source": "existing-html"
+  },
+  "horizon elementary|1970 s arabian way|washington|ut|84780 8305|usa": {
+    "approx": false,
+    "lat": 37.1544,
+    "lng": -113.4692,
+    "query": "Horizon Elementary, 1970 S Arabian Way, Washington, UT, 84780-8305, USA",
+    "source": "existing-html"
+  },
+  "hudson way immersion school|249 bebout ave|stirling|nj|07980|usa": {
+    "approx": false,
+    "lat": 40.6818,
+    "lng": -74.4919,
+    "query": "Hudson Way Immersion School, 249 Bebout Ave, Stirling, NJ, 07980, USA",
+    "source": "existing-html"
+  },
+  "hudson way immersion school|525 west 52nd street|new york|ny|10019|usa": {
+    "approx": false,
+    "lat": 40.7672,
+    "lng": -73.9918,
+    "query": "Hudson Way Immersion School, 525 West 52nd Street, New York, NY, 10019, USA",
+    "source": "existing-html"
+  },
+  "hurricane high school|345 tiger blvd|hurricane|ut|84737|usa": {
+    "approx": false,
+    "lat": 37.2499,
+    "lng": -113.1946,
+    "query": "Hurricane High School, 345 Tiger Blvd, Hurricane, UT, 84737, USA",
+    "source": "existing-html"
+  },
+  "hurricane intermediate school|1325 south 700 west|hurricane|ut|84737|usa": {
+    "approx": false,
+    "lat": 37.2499,
+    "lng": -113.1946,
+    "query": "Hurricane Intermediate School, 1325 South 700 West, Hurricane, UT, 84737, USA",
+    "source": "existing-html"
+  },
+  "hurricane middle school|395 n 200 w|hurricane|ut|84737|usa": {
+    "approx": false,
+    "lat": 37.2499,
+    "lng": -113.1946,
+    "query": "Hurricane Middle School, 395 N 200 W, Hurricane, UT, 84737, USA",
+    "source": "existing-html"
+  },
+  "icc mandarin immersion school|10300 westoffice dr 200|houston|tx|77042|usa": {
+    "approx": false,
+    "lat": 29.7419,
+    "lng": -95.5582,
+    "query": "ICC Mandarin Immersion School, 10300 Westoffice Dr #200, Houston, TX, 77042, USA",
+    "source": "existing-html"
+  },
+  "ilim school|601 polk street|pineville|nc|28134|usa": {
+    "approx": false,
+    "lat": 35.0775,
+    "lng": -80.8907,
+    "query": "ILIM School, 601 Polk Street, Pineville, NC, 28134, USA",
+    "source": "existing-html"
+  },
+  "indian hills middle school|1180 e sanders rd|sandy|ut|84094 5664|usa": {
+    "approx": false,
+    "lat": 40.5692,
+    "lng": -111.8625,
+    "query": "Indian Hills Middle School, 1180 E Sanders Rd, Sandy, UT, 84094-5664, USA",
+    "source": "existing-html"
+  },
+  "intercultural montessori language school|114 south racine avenue|chicago|il|60607|usa": {
+    "approx": false,
+    "lat": 41.8745,
+    "lng": -87.6501,
+    "query": "Intercultural Montessori Language School, 114 South Racine Avenue, Chicago, IL, 60607, USA",
+    "source": "existing-html"
+  },
+  "international charter school of atlanta|1335 northmeadow pkwy|roswell|ga|30076 4949|usa": {
+    "approx": false,
+    "lat": 34.0249,
+    "lng": -84.3119,
+    "query": "International Charter School of Atlanta, 1335 Northmeadow Pkwy, Roswell, GA, 30076-4949, USA",
+    "source": "existing-html"
+  },
+  "international friends school|556 124th ave ne|bellevue|wa|98005|usa": {
+    "approx": false,
+    "lat": 47.6201,
+    "lng": -122.1731,
+    "query": "International Friends School, 556 124th Ave NE, Bellevue, WA, 98005, USA",
+    "source": "existing-html"
+  },
+  "international high school|150 oak st|san francisco|ca|94102 7702|usa": {
+    "approx": false,
+    "lat": 37.7794,
+    "lng": -122.4177,
+    "query": "International High School, 150 Oak St, San Francisco, CA, 94102-7702, USA",
+    "source": "existing-html"
+  },
+  "international montessori school|3001 academy road|durham|nc|27707|usa": {
+    "approx": false,
+    "lat": 35.9482,
+    "lng": -78.9555,
+    "query": "International Montessori School, 3001 Academy Road, Durham, NC, 27707, USA",
+    "source": "existing-html"
+  },
+  "international school of beijing||beijing|||china": {
+    "approx": false,
+    "lat": 39.904,
+    "lng": 116.407,
+    "query": "International School of Beijing, Beijing, China",
+    "source": "existing-html"
+  },
+  "international school of denver|7701 east first place|denver|co|80230|usa": {
+    "approx": false,
+    "lat": 39.72,
+    "lng": -104.8918,
+    "query": "International School of Denver, 7701 East First Place, Denver, CO, 80230, USA",
+    "source": "existing-html"
+  },
+  "international school of indiana|4330 michigan rd|indianapolis|in|46208 3324|usa": {
+    "approx": false,
+    "lat": 39.832,
+    "lng": -86.1766,
+    "query": "International School of Indiana, 4330 Michigan Rd, Indianapolis, IN, 46208-3324, USA",
+    "source": "existing-html"
+  },
+  "international school of portland|2305 s water ave|portland|or|97201|usa": {
+    "approx": false,
+    "lat": 45.5074,
+    "lng": -122.6898,
+    "query": "International School of Portland, 2305 S Water Ave, Portland, OR, 97201, USA",
+    "source": "existing-html"
+  },
+  "international school of san antonio|8231 callaghan road building 2|san antonio|tx|78230|usa": {
+    "approx": false,
+    "lat": 29.5428,
+    "lng": -98.5596,
+    "query": "International School of San Antonio, 8231 Callaghan Road, Building 2, San Antonio, TX, 78230, USA",
+    "source": "existing-html"
+  },
+  "international school of tucson|1701 e seneca st|tucson|az|85719 3746|usa": {
+    "approx": false,
+    "lat": 32.248,
+    "lng": -110.9474,
+    "query": "International School of Tucson, 1701 E Seneca St, Tucson, AZ, 85719-3746, USA",
+    "source": "existing-html"
+  },
+  "invictus international school|monterey place 23 tong chun st tseung kwan o new territories|new territories|||hong kong": {
+    "approx": false,
+    "lat": 22.308,
+    "lng": 114.26,
+    "query": "Invictus International School, Monterey Place, 23 Tong Chun St., Tseung Kwan O., New Territories, New Territories, Hong Kong",
+    "source": "existing-html"
+  },
+  "invictus international school|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Invictus International School, Singapore",
+    "source": "existing-html"
+  },
+  "irvine chinese immersion academy|1 liberty|irvine|ca|92620|usa": {
+    "approx": false,
+    "lat": 33.709,
+    "lng": -117.759,
+    "query": "Irvine Chinese Immersion Academy, 1 Liberty, Irvine, CA, 92620, USA",
+    "source": "existing-html"
+  },
+  "irvine international academy|4782 karen ann lane|irvine|ca|92604|usa": {
+    "approx": false,
+    "lat": 33.6903,
+    "lng": -117.7899,
+    "query": "Irvine International Academy, 4782 Karen Ann Lane, Irvine, CA, 92604, USA",
+    "source": "existing-html"
+  },
+  "isf academy|1 kong sin wan road|pokfulam|||hong kong": {
+    "approx": false,
+    "lat": 22.261,
+    "lng": 114.135,
+    "query": "ISF Academy, 1 Kong Sin Wan Road, Pokfulam, Hong Kong",
+    "source": "existing-html"
+  },
+  "jacob wismer elementary|5477 nw skycrest parkway|portland|or|97229|usa": {
+    "approx": false,
+    "lat": 45.5544,
+    "lng": -122.8113,
+    "query": "Jacob Wismer Elementary, 5477 NW Skycrest Parkway, Portland, OR, 97229, USA",
+    "source": "existing-html"
+  },
+  "jason lee middle school|8500 nw 9th avenue|vancouver|wa|98665|usa": {
+    "approx": false,
+    "lat": 45.6799,
+    "lng": -122.6497,
+    "query": "Jason Lee Middle School, 8500 NW 9th Avenue, Vancouver, WA, 98665, USA",
+    "source": "existing-html"
+  },
+  "jefferson high school|5210 n kerby ave|portland|or|97217|usa": {
+    "approx": false,
+    "lat": 45.5896,
+    "lng": -122.693,
+    "query": "Jefferson High School, 5210 N Kerby Ave, Portland, OR, 97217, USA",
+    "source": "existing-html"
+  },
+  "jie ming mandarin immersion academy|1845 sheridan ave w|saint paul|mn|55116|usa": {
+    "approx": false,
+    "lat": 44.9108,
+    "lng": -93.1703,
+    "query": "Jie Ming Mandarin Immersion Academy, 1845 Sheridan Ave. W., Saint Paul, MN, 55116, USA",
+    "source": "existing-html"
+  },
+  "jing mei elementary|12635 se 56th st|bellevue|wa|98006 2920|usa": {
+    "approx": false,
+    "lat": 47.5528,
+    "lng": -122.1506,
+    "query": "Jing Mei Elementary, 12635 SE 56th St, Bellevue, WA, 98006-2920, USA",
+    "source": "existing-html"
+  },
+  "joaquin miller middle school|6151 rainbow dr|san jose|ca|95129 4043|usa": {
+    "approx": false,
+    "lat": 37.3075,
+    "lng": -122.0022,
+    "query": "Joaquin Miller Middle School, 6151 Rainbow Dr, San Jose, CA, 95129-4043, USA",
+    "source": "existing-html"
+  },
+  "john muir elementary|6560 hanover drive|san jose|ca|95129|usa": {
+    "approx": false,
+    "lat": 37.3075,
+    "lng": -122.0022,
+    "query": "John Muir Elementary, 6560 Hanover Drive, San Jose, CA, 95129, USA",
+    "source": "existing-html"
+  },
+  "john norquay elementary|4710 slocan st|vancouver bc|||canada": {
+    "approx": false,
+    "lat": 49.283,
+    "lng": -123.121,
+    "query": "John Norquay Elementary, 4710 Slocan St., Vancouver, BC, Canada",
+    "source": "existing-html"
+  },
+  "john r downes elementary|220 casho mill rd|newark|de|19711|usa": {
+    "approx": false,
+    "lat": 39.7155,
+    "lng": -75.7318,
+    "query": "John R. Downes Elementary, 220 Casho Mill Rd, Newark, DE, 19711, USA",
+    "source": "existing-html"
+  },
+  "jos ortega elementary school|400 sargent st|san francisco|ca|94132 3152|usa": {
+    "approx": false,
+    "lat": 37.723,
+    "lng": -122.4848,
+    "query": "José Ortega Elementary School, 400 Sargent St, San Francisco, CA, 94132-3152, USA",
+    "source": "existing-html"
+  },
+  "joslin foreign language elementary school|4500 manchaca road|austin|tx|78745|usa": {
+    "approx": false,
+    "lat": 30.2007,
+    "lng": -97.7971,
+    "query": "Joslin Foreign Language Elementary School, 4500 Manchaca Road, Austin, TX, 78745, USA",
+    "source": "existing-html"
+  },
+  "jump immersion|316 ridgedale ave|east hanover|nj|07936|usa": {
+    "approx": false,
+    "lat": 40.8203,
+    "lng": -74.368,
+    "query": "Jump Immersion, 316 Ridgedale Ave., East Hanover, NJ, 07936, USA",
+    "source": "existing-html"
+  },
+  "k l carver elementary|3100 huntington dr|san marino|ca|91108|usa": {
+    "approx": false,
+    "lat": 34.1212,
+    "lng": -118.1151,
+    "query": "K.L. Carver Elementary, 3100 Huntington Dr, San Marino, CA, 91108, USA",
+    "source": "existing-html"
+  },
+  "kennedy middle school|2521 goodwin avenue|redwood city|ca|94061|usa": {
+    "approx": false,
+    "lat": 37.4633,
+    "lng": -122.2408,
+    "query": "Kennedy Middle School, 2521 Goodwin Avenue, Redwood City, CA, 94061, USA",
+    "source": "existing-html"
+  },
+  "kensington wade school|fulham palace road|london||w6 9er|united kingdom": {
+    "approx": false,
+    "lat": 51.507,
+    "lng": -0.128,
+    "query": "Kensington Wade School, Fulham Palace Road, London, W6 9ER, United Kingdom",
+    "source": "existing-html"
+  },
+  "kiangsu chekiang primary school|30 ching wah street|north point|||hong kong": {
+    "approx": false,
+    "lat": 22.291,
+    "lng": 114.2,
+    "query": "Kiangsu & Chekiang Primary School, 30 Ching Wah Street, North Point, Hong Kong",
+    "source": "existing-html"
+  },
+  "kildare elementary school|7525 144 avenue nw|edmonton alberta||t5c 2r8|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Kildare Elementary School, 7525-144 Avenue NW, Edmonton, Alberta,, T5C 2R8, Canada",
+    "source": "existing-html"
+  },
+  "konnoack elementary|3200 renon rd|winston salem|nc|27127 5030|usa": {
+    "approx": false,
+    "lat": 36.0223,
+    "lng": -80.2909,
+    "query": "Konnoack Elementary, 3200 Renon Rd, Winston Salem, NC, 27127-5030, USA",
+    "source": "existing-html"
+  },
+  "lafaytte renaissance charter academy|205 vienne lane|lafayette|la|70507|usa": {
+    "approx": false,
+    "lat": 30.2834,
+    "lng": -92.0313,
+    "query": "Lafaytte Renaissance Charter Academy, 205 Vienne Lane, Lafayette, LA, 70507, USA",
+    "source": "existing-html"
+  },
+  "lakecreek montessori international school|10129 lake creek parkway|austin|tx|78729|usa": {
+    "approx": false,
+    "lat": 30.4559,
+    "lng": -97.7574,
+    "query": "LakeCreek Montessori International School, 10129 Lake Creek Parkway, Austin, TX, 78729, USA",
+    "source": "existing-html"
+  },
+  "lakes international language academy|19850 fenway ave north|forest lake|mn|55025 1883|usa": {
+    "approx": false,
+    "lat": 45.2622,
+    "lng": -93.0137,
+    "query": "Lakes International Language Academy, 19850 Fenway Ave. North, Forest Lake, MN, 55025-1883, USA",
+    "source": "existing-html"
+  },
+  "lakes international language academy|246 11th ave s e|forest lake|mn|55025|usa": {
+    "approx": false,
+    "lat": 45.2622,
+    "lng": -93.0137,
+    "query": "Lakes International Language Academy, 246 11th Ave. S.E., Forest Lake, MN, 55025, USA",
+    "source": "existing-html"
+  },
+  "lava ridge intermediate|2425 rachel drive|santa clara|ut|84765|usa": {
+    "approx": false,
+    "lat": 37.1344,
+    "lng": -113.6491,
+    "query": "Lava Ridge Intermediate, 2425 Rachel Drive, Santa Clara, UT, 84765, USA",
+    "source": "existing-html"
+  },
+  "leo j muir elementary|2275 s davis blvd|bountiful|ut|84010 5641|usa": {
+    "approx": false,
+    "lat": 40.8762,
+    "lng": -111.8235,
+    "query": "Leo J. Muir Elementary, 2275 S Davis Blvd, Bountiful, UT, 84010-5641, USA",
+    "source": "existing-html"
+  },
+  "lila bringhurst elementary|45051 wisdom road|fremont|ca|94538|usa": {
+    "approx": false,
+    "lat": 37.5101,
+    "lng": -121.9861,
+    "query": "Lila Bringhurst Elementary, 45051 Wisdom Road, Fremont, CA, 94538, USA",
+    "source": "existing-html"
+  },
+  "linden hill elementary|3415 skyline dr|wilmington|de|19808 1701|usa": {
+    "approx": false,
+    "lat": 39.7345,
+    "lng": -75.6651,
+    "query": "Linden Hill Elementary, 3415 Skyline Dr, Wilmington, DE, 19808-1701, USA",
+    "source": "existing-html"
+  },
+  "little tigers immersion school|708 e 51st street|austin|tx|78751|usa": {
+    "approx": false,
+    "lat": 30.3101,
+    "lng": -97.725,
+    "query": "Little Tigers Immersion School, 708 E 51st Street, Austin, TX, 78751, USA",
+    "source": "existing-html"
+  },
+  "londonderry junior high school|7104 144 avenue nw|edmonton alberta||t5c 2r4|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Londonderry Junior High School, 7104-144 Avenue NW, Edmonton, Alberta,, T5C 2R4, Canada",
+    "source": "existing-html"
+  },
+  "lone peak elementary|11515 s high mesa dr|sandy|ut|84092 5565|usa": {
+    "approx": false,
+    "lat": 40.562,
+    "lng": -111.8017,
+    "query": "Lone Peak Elementary, 11515 S High Mesa Dr, Sandy, UT, 84092-5565, USA",
+    "source": "existing-html"
+  },
+  "longden elementary school|9501 wendon street|temple city|ca|91780|usa": {
+    "approx": false,
+    "lat": 34.1031,
+    "lng": -118.0509,
+    "query": "Longden Elementary School, 9501 Wendon Street, Temple City, CA, 91780, USA",
+    "source": "existing-html"
+  },
+  "luyanzi college||kampala|||uganda": {
+    "approx": false,
+    "lat": 0.347,
+    "lng": 32.582,
+    "query": "Luyanzi College, Kampala, Uganda",
+    "source": "existing-html"
+  },
+  "m e lazerte high school|6804 144 avenue nw|edmonton alberta||t5c 3c7|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "M.E. LaZerte High School, 6804-144 Avenue NW, Edmonton, Alberta,, T5C 3C7, Canada",
+    "source": "existing-html"
+  },
+  "m l king immerson school|102 putnam avenue 317 russell st 909 holland st 425 paca st|cambridge|ma|02139 2951|usa": {
+    "approx": false,
+    "lat": 42.3644,
+    "lng": -71.1012,
+    "query": "M.L. King Immerson School, 102 Putnam Avenue\n317 Russell St  \n909 Holland St.\n425 Paca St, Cambridge, MA, 02139-2951, USA",
+    "source": "existing-html"
+  },
+  "magyar kinai altalanos iskola||budapest|||hungary": {
+    "approx": false,
+    "lat": 47.498,
+    "lng": 19.04,
+    "query": "Magyar-Kinai Altalanos Iskola, Budapest, Hungary",
+    "source": "existing-html"
+  },
+  "mandarin academy|6191 bollinger rd|cupertino|ca|95014 4630|usa": {
+    "approx": false,
+    "lat": 37.2943,
+    "lng": -122.0944,
+    "query": "Mandarin Academy, 6191 Bollinger Rd, Cupertino, CA, 95014-4630, USA",
+    "source": "existing-html"
+  },
+  "mandarin immersion magnet school|5445 w alabama houston|houston|tx|77056|usa": {
+    "approx": false,
+    "lat": 29.7492,
+    "lng": -95.4674,
+    "query": "Mandarin Immersion Magnet School, 5445 W Alabama Houston, Houston, TX, 77056, USA",
+    "source": "existing-html"
+  },
+  "marengo elementary school|1400 marengo ave|south pasadena|ca|91030 3951|usa": {
+    "approx": false,
+    "lat": 34.113,
+    "lng": -118.1565,
+    "query": "Marengo Elementary School, 1400 Marengo Ave, South Pasadena, CA, 91030-3951, USA",
+    "source": "existing-html"
+  },
+  "marguerita elementary school|1603 s marguerita ave|alhambra|ca|91803 3148|usa": {
+    "approx": false,
+    "lat": 34.0756,
+    "lng": -118.144,
+    "query": "Marguerita Elementary School, 1603 S Marguerita Ave, Alhambra, CA, 91803-3148, USA",
+    "source": "existing-html"
+  },
+  "marian bergeson elementary|25302 rancho niguel rd|laguna niguel|ca|92677 7300|usa": {
+    "approx": false,
+    "lat": 33.5337,
+    "lng": -117.7074,
+    "query": "Marian Bergeson Elementary, 25302 Rancho Niguel Rd, Laguna Niguel, CA, 92677-7300, USA",
+    "source": "existing-html"
+  },
+  "mark twain middle school|2224 walgrove avenue|los angeles|ca|90066|usa": {
+    "approx": false,
+    "lat": 34.0002,
+    "lng": -118.4326,
+    "query": "Mark Twain Middle School, 2224 Walgrove Avenue, Los Angeles, CA, 90066, USA",
+    "source": "existing-html"
+  },
+  "martin luther king elementary school|4906 ne 6th ave|portland|or|97211 3912|usa": {
+    "approx": false,
+    "lat": 45.5773,
+    "lng": -122.6416,
+    "query": "Martin Luther King Elementary School, 4906 NE 6th Ave, Portland, OR, 97211-3912, USA",
+    "source": "existing-html"
+  },
+  "marvin elementary|9700 marvin school rd|marvin|nc|28173 8597|usa": {
+    "approx": false,
+    "lat": 34.9259,
+    "lng": -80.7347,
+    "query": "Marvin Elementary, 9700 Marvin School Rd, Marvin, NC, 28173-8597, USA",
+    "source": "existing-html"
+  },
+  "maryknoll school|526 alexander st|honolulu|hi|96822|usa": {
+    "approx": false,
+    "lat": 21.3222,
+    "lng": -157.8141,
+    "query": "Maryknoll School, 526 Alexander St, Honolulu, HI, 96822-, USA",
+    "source": "existing-html"
+  },
+  "maurice hawk elementary school|303 305 clarksville road|west windsor|nj|08550|usa": {
+    "approx": false,
+    "lat": 40.2826,
+    "lng": -74.6205,
+    "query": "Maurice Hawk Elementary School, 303-305 Clarksville Road, West Windsor, NJ, 08550, USA",
+    "source": "existing-html"
+  },
+  "mawson primary||mawson near canberra|australian capital territory||australia": {
+    "approx": false,
+    "lat": -35.31,
+    "lng": 149.124,
+    "query": "Mawson Primary, Mawson, near Canberra, Australian Capital Territory, Australia",
+    "source": "existing-html"
+  },
+  "mcilvaine early childhood center|11 e walnut st|magnolia|de|19962 9304|usa": {
+    "approx": false,
+    "lat": 39.077,
+    "lng": -75.4889,
+    "query": "McIlvaine Early Childhood Center, 11 E Walnut St, Magnolia, DE, 19962-9304, USA",
+    "source": "existing-html"
+  },
+  "mcnally high school|8440 105 avenue nw|edmonton alberta||t6a 1b6|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "McNally High School, 8440-105 Avenue NW, Edmonton, Alberta,, T6A 1B6, Canada",
+    "source": "existing-html"
+  },
+  "meadow brook elementary school|1450 forest hill ave se|grand rapids|mi|49546 6230|usa": {
+    "approx": false,
+    "lat": 42.9251,
+    "lng": -85.5391,
+    "query": "Meadow Brook Elementary School, 1450 Forest Hill Ave SE, Grand Rapids, MI, 49546-6230, USA",
+    "source": "existing-html"
+  },
+  "meadow glen|510 ginny lane|lexington|sc|29072 8041|usa": {
+    "approx": false,
+    "lat": 33.9883,
+    "lng": -81.2837,
+    "query": "Meadow Glen, 510 Ginny Lane, Lexington, SC, 29072-8041, USA",
+    "source": "existing-html"
+  },
+  "meadowlark elementary school|9150 160 street nw|edmonton alberta||t5r 2j2|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Meadowlark Elementary School, 9150-160 Street NW, Edmonton, Alberta,, T5R 2J2, Canada",
+    "source": "existing-html"
+  },
+  "mercer international middle school|1600 s columbian way|seattle|wa|98108 1565|usa": {
+    "approx": false,
+    "lat": 47.5411,
+    "lng": -122.3133,
+    "query": "Mercer International Middle School, 1600 S Columbian Way, Seattle, WA, 98108-1565, USA",
+    "source": "existing-html"
+  },
+  "mesa elementary school|409 s barranca st|west covina|ca|91791 2209|usa": {
+    "approx": false,
+    "lat": 34.062,
+    "lng": -117.8874,
+    "query": "Mesa Elementary School, 409 S Barranca St, West Covina, CA, 91791-2209, USA",
+    "source": "existing-html"
+  },
+  "mesquite elementary|9455 e rita rd|tucson|az|85747 6300|usa": {
+    "approx": false,
+    "lat": 32.0985,
+    "lng": -110.7308,
+    "query": "Mesquite Elementary, 9455 E Rita Rd, Tucson, AZ, 85747-6300, USA",
+    "source": "existing-html"
+  },
+  "meyonohk elementary school|1850 lakewood road south|edmonton alberta||t6k 3y5|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Meyonohk Elementary School, 1850 Lakewood Road South, Edmonton, Alberta,, T6K 3Y5, Canada",
+    "source": "existing-html"
+  },
+  "midnapore school|55 midpark rise s e|calgary ab||t2x 1l7|canada": {
+    "approx": false,
+    "lat": 51.045,
+    "lng": -114.072,
+    "query": "Midnapore School, 55 Midpark Rise S.E, Calgary, AB, T2X 1L7, Canada",
+    "source": "existing-html"
+  },
+  "minnetonka high school|18301 highway 7|minnetonka|mn|55345 4114|usa": {
+    "approx": false,
+    "lat": 44.9191,
+    "lng": -93.4834,
+    "query": "Minnetonka High School, 18301 Highway 7, Minnetonka, MN, 55345-4114, USA",
+    "source": "existing-html"
+  },
+  "minnetonka middle school east|17000 lake street ext|minnetonka|mn|55345 2530|usa": {
+    "approx": false,
+    "lat": 44.9191,
+    "lng": -93.4834,
+    "query": "Minnetonka Middle School East, 17000 Lake Street Ext, Minnetonka, MN, 55345-2530, USA",
+    "source": "existing-html"
+  },
+  "minnetonka middle school west|6421 hazeltine blvd|excelsior|mn|55331 8028|usa": {
+    "approx": false,
+    "lat": 44.8985,
+    "lng": -93.6256,
+    "query": "Minnetonka Middle School West, 6421 Hazeltine Blvd, Excelsior, MN, 55331-8028, USA",
+    "source": "existing-html"
+  },
+  "mission bay high school|2475 grand ave|san diego|ca|92109|usa": {
+    "approx": false,
+    "lat": 32.7907,
+    "lng": -117.2336,
+    "query": "Mission Bay High School, 2475 Grand Ave., San Diego, CA, 92109, USA",
+    "source": "existing-html"
+  },
+  "mission san jose high school|41717 palm avenue|fremont|ca|94539|usa": {
+    "approx": false,
+    "lat": 37.5288,
+    "lng": -121.9103,
+    "query": "Mission San Jose High School, 41717 Palm Avenue, Fremont, CA, 94539, USA",
+    "source": "existing-html"
+  },
+  "monte vista elementary|11121 s 2700 w|south jordan|ut|84095 8431|usa": {
+    "approx": false,
+    "lat": 40.5594,
+    "lng": -111.9824,
+    "query": "Monte Vista Elementary, 11121 S 2700 W, South Jordan, UT, 84095-8431, USA",
+    "source": "existing-html"
+  },
+  "montera elementary school|4825 bandera st|montclair|ca|90280|usa": {
+    "approx": false,
+    "lat": 33.9385,
+    "lng": -118.1904,
+    "query": "Montera Elementary School, 4825 Bandera St., Montclair, CA, 90280, USA",
+    "source": "existing-html"
+  },
+  "mountain creek middle school|5325 bingham rim road|south jordan|ut|84009|usa": {
+    "approx": false,
+    "lat": 40.5554,
+    "lng": -112.018,
+    "query": "Mountain Creek Middle School, 5325 Bingham Rim Road, South Jordan, UT, 84009, USA",
+    "source": "existing-html"
+  },
+  "mountain ridge high school|14100 s sentinel ridge blvd|herriman|ut|84096|usa": {
+    "approx": false,
+    "lat": 40.4892,
+    "lng": -112.0507,
+    "query": "Mountain Ridge High School, 14100 S. Sentinel Ridge Blvd., Herriman, UT, 84096, USA",
+    "source": "existing-html"
+  },
+  "ms lam s montessori school|2 north 5th street|brooklyn|ny|11249|usa": {
+    "approx": false,
+    "lat": 40.6933,
+    "lng": -73.9925,
+    "query": "Ms. Lam's Montessori School, 2 North 5th Street, Brooklyn, NY, 11249, USA",
+    "source": "existing-html"
+  },
+  "mueller park junior high school|davis school district|bountiful|ut|84010|usa": {
+    "approx": false,
+    "lat": 40.8762,
+    "lng": -111.8235,
+    "query": "Mueller Park Junior High School, Davis School District, Bountiful, UT, 84010, USA",
+    "source": "existing-html"
+  },
+  "mullberry house|||||hong kong": {
+    "approx": true,
+    "lat": 22.32,
+    "lng": 114.17,
+    "query": "Mullberry House, Hong Kong",
+    "source": "existing-html"
+  },
+  "music math and multilingual christian academy|suite e 9 mcalister square|greenville|sc|29607|usa": {
+    "approx": false,
+    "lat": 34.8038,
+    "lng": -82.3215,
+    "query": "Music, Math, and Multilingual Christian Academy, Suite E-9, McAlister Square, Greenville, SC, 29607, USA",
+    "source": "existing-html"
+  },
+  "naselle school|793 state route 4|naselle|wa|98638 8541|usa": {
+    "approx": false,
+    "lat": 46.3879,
+    "lng": -123.6643,
+    "query": "Naselle School, 793 State Route 4, Naselle, WA, 98638-8541, USA",
+    "source": "existing-html"
+  },
+  "new castle elementary|903 delaware|new castle|de|19720|usa": {
+    "approx": false,
+    "lat": 39.6382,
+    "lng": -75.5872,
+    "query": "New Castle Elementary, 903 Delaware, New Castle, DE, 19720, USA",
+    "source": "existing-html"
+  },
+  "new century international elementary|7465 century cirle|fayetteville|nc|28306 3053|usa": {
+    "approx": false,
+    "lat": 34.9313,
+    "lng": -78.9205,
+    "query": "New Century International Elementary, 7465 Century Cirle, Fayetteville, NC, 28306-3053, USA",
+    "source": "existing-html"
+  },
+  "new lexington school|10410 e bodger|el monte|ca|91733|usa": {
+    "approx": false,
+    "lat": 34.0448,
+    "lng": -118.052,
+    "query": "New Lexington School, 10410 E Bodger, El Monte, CA, 91733, USA",
+    "source": "existing-html"
+  },
+  "newark high school|750 east deleware street|newark|de|19711|usa": {
+    "approx": false,
+    "lat": 39.7155,
+    "lng": -75.7318,
+    "query": "Newark High School, 750 East Deleware Street, Newark, DE, 19711, USA",
+    "source": "existing-html"
+  },
+  "no 28 primary school in district 5||buenos aires|||argentina": {
+    "approx": false,
+    "lat": -34.603,
+    "lng": -58.382,
+    "query": "No. 28 Primary School in District 5, Buenos Aires, Argentina",
+    "source": "existing-html"
+  },
+  "north barrington elementary|24175 n grandview dr|barrington|il|60010 1737|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "North Barrington Elementary, 24175 N Grandview Dr, Barrington, IL, 60010-1737, USA",
+    "source": "existing-html"
+  },
+  "north cache middle school|157 w 600 s|richmond|ut|84333|usa": {
+    "approx": false,
+    "lat": 41.9169,
+    "lng": -111.8287,
+    "query": "North Cache Middle School, 157 W 600 S, Richmond, UT, 84333, USA",
+    "source": "existing-html"
+  },
+  "north harnett primary school i|282 north harnett school road|angier|nc|27501|usa": {
+    "approx": false,
+    "lat": 35.481,
+    "lng": -78.692,
+    "query": "North Harnett Primary School i, 282 North Harnett School Road, Angier, NC, 27501, USA",
+    "source": "existing-html"
+  },
+  "north junior high school|1212 29th ave north|saint cloud|mn|56303|usa": {
+    "approx": false,
+    "lat": 45.5808,
+    "lng": -94.2152,
+    "query": "North Junior High School, 1212 29th Ave North, Saint Cloud, MN, 56303, USA",
+    "source": "existing-html"
+  },
+  "north ogden junior high school|575 east 2900 north|north ogden|ut|84414|usa": {
+    "approx": false,
+    "lat": 41.3173,
+    "lng": -111.962,
+    "query": "North Ogden Junior High School, 575 East 2900 North, North Ogden, UT, 84414, USA",
+    "source": "existing-html"
+  },
+  "northern high school|3801 leonard st ne|grand rapids|mi|49525|usa": {
+    "approx": false,
+    "lat": 43.0142,
+    "lng": -85.5999,
+    "query": "Northern High School, 3801 Leonard St NE, Grand Rapids, MI, 49525, USA",
+    "source": "existing-html"
+  },
+  "northern trails middle school|3775 leonard st ne|grand rapids|mi|49525 3369|usa": {
+    "approx": false,
+    "lat": 43.0142,
+    "lng": -85.5999,
+    "query": "Northern Trails Middle School, 3775 Leonard St NE, Grand Rapids, MI, 49525-3369, USA",
+    "source": "existing-html"
+  },
+  "northern trails school|3777 leonard st ne|grand rapids|mi|49525|usa": {
+    "approx": false,
+    "lat": 43.0142,
+    "lng": -85.5999,
+    "query": "Northern Trails School, 3777 Leonard St. NE, Grand Rapids, MI, 49525, USA",
+    "source": "existing-html"
+  },
+  "oakbrook elementary school|12060 greenway dr|sterling heights|mi|48312 2173|usa": {
+    "approx": false,
+    "lat": 42.5591,
+    "lng": -83.0098,
+    "query": "Oakbrook Elementary School, 12060 Greenway Dr, Sterling Heights, MI, 48312-2173, USA",
+    "source": "existing-html"
+  },
+  "oasis trilingual community school|429 e wildrose ave|monrovia|ca|91016|usa": {
+    "approx": false,
+    "lat": 34.1535,
+    "lng": -117.9741,
+    "query": "Oasis Trilingual Community School, 429 E Wildrose Ave, Monrovia, CA, 91016, USA",
+    "source": "existing-html"
+  },
+  "oberlin magnet middle school|2816 oberlin road|raleigh|nc|27608|usa": {
+    "approx": false,
+    "lat": 35.8092,
+    "lng": -78.6452,
+    "query": "Oberlin Magnet Middle School, 2816 Oberlin Road, Raleigh, NC, 27608, USA",
+    "source": "existing-html"
+  },
+  "odessa high school||townsend|de|19734|usa": {
+    "approx": false,
+    "lat": 39.3745,
+    "lng": -75.6401,
+    "query": "Odessa High School, Townsend, DE, 19734, USA",
+    "source": "existing-html"
+  },
+  "ohlone elementary school|950 amarillo ave|palo alto|ca|94303 3701|usa": {
+    "approx": false,
+    "lat": 37.4578,
+    "lng": -122.1225,
+    "query": "Ohlone Elementary School, 950 Amarillo Ave, Palo Alto, CA, 94303-3701, USA",
+    "source": "existing-html"
+  },
+  "old state elementary school|580 tony marchio dr|townsend|de|19734|usa": {
+    "approx": false,
+    "lat": 39.3745,
+    "lng": -75.6401,
+    "query": "Old State Elementary School, 580 Tony Marchio Dr,, Townsend, DE, 19734, USA",
+    "source": "existing-html"
+  },
+  "omni international school|3940 cascade rd sw|atlanta|ga|30331 7240|usa": {
+    "approx": false,
+    "lat": 33.7248,
+    "lng": -84.5802,
+    "query": "Omni International School, 3940 Cascade Rd SW, Atlanta, GA, 30331-7240, USA",
+    "source": "existing-html"
+  },
+  "one world international school|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "One World International School, Singapore",
+    "source": "existing-html"
+  },
+  "oquirrh hills middle school|12949 2700 w|riverton|ut|84065|usa": {
+    "approx": false,
+    "lat": 40.4774,
+    "lng": -111.9725,
+    "query": "Oquirrh Hills Middle School, 12949 2700 W, Riverton, UT, 84065, USA",
+    "source": "existing-html"
+  },
+  "orangewood elementary school|1440 south orange ave|west covina|ca|91790|usa": {
+    "approx": false,
+    "lat": 34.0701,
+    "lng": -117.9419,
+    "query": "Orangewood Elementary School, 1440 South Orange Ave., West Covina, CA, 91790, USA",
+    "source": "existing-html"
+  },
+  "orem high school|175 s 400 e orem|orem|ut|84097|usa": {
+    "approx": false,
+    "lat": 40.2971,
+    "lng": -111.6677,
+    "query": "Orem High School, 175 S 400 E, Orem, Orem, UT, 84097, USA",
+    "source": "existing-html"
+  },
+  "orion alternative school|555 avenue del ora|redwood city|ca|94062|usa": {
+    "approx": false,
+    "lat": 37.4088,
+    "lng": -122.2952,
+    "query": "Orion Alternative School, 555 Avenue Del Ora, Redwood City, CA, 94062, USA",
+    "source": "existing-html"
+  },
+  "ottewell junior high school|9435 73 street nw|edmonton alberta||t6b 2a9|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Ottewell Junior High School, 9435-73 Street NW, Edmonton, Alberta,, T6B 2A9, Canada",
+    "source": "existing-html"
+  },
+  "overland trail middle school|6201 w 133rd st|overland park|ks|66209|usa": {
+    "approx": false,
+    "lat": 38.8984,
+    "lng": -94.6379,
+    "query": "Overland Trail Middle School, 6201 W 133rd St, Overland Park, KS, 66209, USA",
+    "source": "existing-html"
+  },
+  "overseas chinese high school|no 176 yanbu road ximen district|seoul|||korea": {
+    "approx": false,
+    "lat": 37.566,
+    "lng": 126.978,
+    "query": "Overseas Chinese High School, No. 176, Yanbu Road, Ximen District,, Seoul, Korea",
+    "source": "existing-html"
+  },
+  "pacific academy costa mesa|2987 mesa verde dr e|costa mesa|ca|92626|usa": {
+    "approx": false,
+    "lat": 33.6791,
+    "lng": -117.9055,
+    "query": "Pacific Academy - Costa Mesa, 2987 Mesa Verde Dr E.,, Costa Mesa, CA, 92626, USA",
+    "source": "existing-html"
+  },
+  "pacific beach middle school|4676 ingraham street|san diego|ca|92109|usa": {
+    "approx": false,
+    "lat": 32.7907,
+    "lng": -117.2336,
+    "query": "Pacific Beach Middle School, 4676 Ingraham Street, San Diego, CA, 92109, USA",
+    "source": "existing-html"
+  },
+  "pacific rim international school|454 peninsula ave|san mateo|ca|94401 1653|usa": {
+    "approx": false,
+    "lat": 37.5742,
+    "lng": -122.3194,
+    "query": "Pacific Rim International School, 454 Peninsula Ave, San Mateo, CA, 94401-1653, USA",
+    "source": "existing-html"
+  },
+  "paint branch elementary|6300 tilden ln|college park|md|20740 2528|usa": {
+    "approx": false,
+    "lat": 39.0013,
+    "lng": -76.9257,
+    "query": "Paint Branch Elementary, 6300 Tilden Ln, College Park, MD, 20740-2528, USA",
+    "source": "existing-html"
+  },
+  "palisades world language school|1500 greentree avenue|lake oswego|or|97034|usa": {
+    "approx": false,
+    "lat": 45.4108,
+    "lng": -122.6795,
+    "query": "Palisades World Language School, 1500 Greentree Avenue, Lake Oswego, OR, 97034, USA",
+    "source": "existing-html"
+  },
+  "panama city trilingual school|420 n bonita ave|panama|fl|32401|usa": {
+    "approx": false,
+    "lat": 30.1614,
+    "lng": -85.6688,
+    "query": "Panama City Trilingual School, 420 N. Bonita Ave., Panama, FL, 32401, USA",
+    "source": "existing-html"
+  },
+  "pantera elementary school|801 pantera dr|diamond bar|ca|91765 4637|usa": {
+    "approx": false,
+    "lat": 33.9945,
+    "lng": -117.8183,
+    "query": "Pantera Elementary School, 801 Pantera Dr, Diamond Bar, CA, 91765-4637, USA",
+    "source": "existing-html"
+  },
+  "paradise valley elementary|22 magnolia st|casper|wy|82604 4037|usa": {
+    "approx": false,
+    "lat": 42.9664,
+    "lng": -106.8071,
+    "query": "Paradise Valley Elementary, 22 Magnolia St, Casper, WY, 82604-4037, USA",
+    "source": "existing-html"
+  },
+  "parkallen elementary school|6703 112|edmonton alberta||t6h 3j9|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Parkallen Elementary School, 6703 - 112, Edmonton, Alberta,, T6H 3J9, Canada",
+    "source": "existing-html"
+  },
+  "parkview junior high school|14313 92 avenue nw|edmonton alberta||t5r 5b3|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Parkview Junior High School, 14313-92 Avenue NW, Edmonton, Alberta,, T5R 5B3, Canada",
+    "source": "existing-html"
+  },
+  "pasadena high school|2925 e sierra madre blvd|pasadena|ca|91007|usa": {
+    "approx": false,
+    "lat": 34.1251,
+    "lng": -118.0495,
+    "query": "Pasadena High School, 2925 E Sierra Madre Blvd, Pasadena, CA, 91007, USA",
+    "source": "existing-html"
+  },
+  "pattengill academy|626 marshall st|lansing|mi|48912 2309|usa": {
+    "approx": false,
+    "lat": 42.7429,
+    "lng": -84.525,
+    "query": "Pattengill Academy, 626 Marshall St, Lansing, MI, 48912-2309, USA",
+    "source": "existing-html"
+  },
+  "philistine rondo school of discovery|14977 walters street|eastvale|ca|92880|usa": {
+    "approx": false,
+    "lat": 33.923,
+    "lng": -117.6126,
+    "query": "Philistine Rondo School of Discovery, 14977 Walters Street, Eastvale, CA, 92880, USA",
+    "source": "existing-html"
+  },
+  "phillips middle school|606 north estes drive|chapel hill|nc|27514|usa": {
+    "approx": false,
+    "lat": 35.9671,
+    "lng": -79.0409,
+    "query": "Phillips Middle School, 606 North Estes Drive, Chapel Hill, NC, 27514, USA",
+    "source": "existing-html"
+  },
+  "pine street school|25 pine st|manhattan|ny|10005|usa": {
+    "approx": false,
+    "lat": 40.7062,
+    "lng": -74.0086,
+    "query": "Pine Street School, 25 Pine St., Manhattan, NY, 10005, USA",
+    "source": "existing-html"
+  },
+  "pioneer valley chinese immersion charter school||hadley|ma|01035 3535|usa": {
+    "approx": false,
+    "lat": 42.3563,
+    "lng": -72.585,
+    "query": "Pioneer Valley Chinese Immersion Charter School, Hadley, MA, 01035-3535, USA",
+    "source": "existing-html"
+  },
+  "plymouth elementary school|1300 boley st 2380 notre dame rd 515 w fletcher ave 950 amarillo ave 3600 e sierra madre blvd 801 pantera dr 2120 12th st 2445 fogg st 1215 carolina st|monrovia|ca|91016 4905|usa": {
+    "approx": false,
+    "lat": 34.1535,
+    "lng": -117.9741,
+    "query": "Plymouth Elementary School, 1300 Boley St  \n2380 Notre Dame Rd  \n515 W Fletcher Ave  \n950 Amarillo Ave  \n3600 E Sierra Madre Blvd  \n801 Pantera Dr  \n2120 12th St  \n2445 Fogg St  \n1215 Carolina St, Monrovia, CA, 91016-4905, USA",
+    "source": "existing-html"
+  },
+  "plympton international college|21a errington street|plympton|south australia||australia": {
+    "approx": false,
+    "lat": -34.954,
+    "lng": 138.552,
+    "query": "Plympton International College, 21A Errington Street, Plympton, South Australia, Australia",
+    "source": "existing-html"
+  },
+  "post oak magnet school|2320 post oak ln|lansing|mi|48912 3540|usa": {
+    "approx": false,
+    "lat": 42.7429,
+    "lng": -84.525,
+    "query": "Post Oak Magnet School, 2320 Post Oak Ln, Lansing, MI, 48912-3540, USA",
+    "source": "existing-html"
+  },
+  "postlethwait middle school|2841 s state st|camden|de|19934 1978|usa": {
+    "approx": false,
+    "lat": 39.0931,
+    "lng": -75.6142,
+    "query": "Postlethwait Middle School, 2841 S State St, Camden, DE, 19934-1978, USA",
+    "source": "existing-html"
+  },
+  "potomac elementary school|10311 river rd|potomac|md|20854 4913|usa": {
+    "approx": false,
+    "lat": 39.0248,
+    "lng": -77.2466,
+    "query": "Potomac Elementary School, 10311 River Rd, Potomac, MD, 20854-4913, USA",
+    "source": "existing-html"
+  },
+  "presidio knolls school|250 10th st|san francisco|ca|94103 3811|usa": {
+    "approx": false,
+    "lat": 37.7755,
+    "lng": -122.4129,
+    "query": "Presidio Knolls School, 250 10th St, San Francisco, CA, 94103-3811, USA",
+    "source": "existing-html"
+  },
+  "ps 013 clement moore school|54 19 56 avenue|elmhurst|ny|11373|usa": {
+    "approx": false,
+    "lat": 40.7383,
+    "lng": -73.8779,
+    "query": "PS 013 Clement Moore School, 54-19 56 Avenue, Elmhurst, NY, 11373, USA",
+    "source": "existing-html"
+  },
+  "ps 020 john bowne|142 30 barclay avenue|queens|ny|11355|usa": {
+    "approx": false,
+    "lat": 40.751,
+    "lng": -73.8227,
+    "query": "PS 020 John Bowne, 142-30 Barclay Avenue, Queens, NY, 11355, USA",
+    "source": "existing-html"
+  },
+  "ps 101 the verrazano|8696 24th avenue|brooklyn|ny|11214|usa": {
+    "approx": false,
+    "lat": 40.5977,
+    "lng": -74.001,
+    "query": "PS 101 The Verrazano, 8696 24th Avenue, Brooklyn, NY, 11214, USA",
+    "source": "existing-html"
+  },
+  "ps 169 sunset park school||brooklyn|ny|11232|usa": {
+    "approx": false,
+    "lat": 40.6572,
+    "lng": -74.0029,
+    "query": "PS 169 Sunset Park School, Brooklyn, NY, 11232, USA",
+    "source": "existing-html"
+  },
+  "ps 170 ralph a fabrizio school|619 72nd street|brooklyn|ny|11209|usa": {
+    "approx": false,
+    "lat": 40.6209,
+    "lng": -74.0291,
+    "query": "PS 170 Ralph A. Fabrizio School, 619 72nd Street, Brooklyn, NY, 11209, USA",
+    "source": "existing-html"
+  },
+  "ps 21q edward hart elementary school||flushing|ny|11354|usa": {
+    "approx": false,
+    "lat": 40.7665,
+    "lng": -73.827,
+    "query": "PS 21Q Edward Hart Elementary School, Flushing, NY, 11354, USA",
+    "source": "existing-html"
+  },
+  "quail run elementary school|4000 goldenbay ave|san ramon|ca|94582 5814|usa": {
+    "approx": false,
+    "lat": 37.7635,
+    "lng": -121.9121,
+    "query": "Quail Run Elementary School, 4000 Goldenbay Ave, San Ramon, CA, 94582-5814, USA",
+    "source": "existing-html"
+  },
+  "queens high school for language studies|3501 union st|flushing|ny|11354 3405|usa": {
+    "approx": false,
+    "lat": 40.7665,
+    "lng": -73.827,
+    "query": "Queens High School for Language Studies, 3501 Union St, Flushing, NY, 11354-3405, USA",
+    "source": "existing-html"
+  },
+  "redding school of the arts|955 inspiration pl|redding|ca|96003 8297|usa": {
+    "approx": false,
+    "lat": 40.662,
+    "lng": -122.278,
+    "query": "Redding School of the Arts, 955 Inspiration Pl, Redding, CA, 96003-8297, USA",
+    "source": "existing-html"
+  },
+  "reid temple christian academy|11400 glenn dale blvd|glenn dale|md|20769 9049|usa": {
+    "approx": false,
+    "lat": 38.9865,
+    "lng": -76.8183,
+    "query": "Reid Temple Christian Academy, 11400 Glenn Dale Blvd, Glenn Dale, MD, 20769-9049, USA",
+    "source": "existing-html"
+  },
+  "reilly elementary|405 denson drive|austin|tx|78752|usa": {
+    "approx": false,
+    "lat": 30.3341,
+    "lng": -97.6999,
+    "query": "Reilly Elementary, 405 Denson Drive, Austin, TX, 78752, USA",
+    "source": "existing-html"
+  },
+  "renaissance academy|3435 n 1120 e|lehi|ut|84043 6538|usa": {
+    "approx": false,
+    "lat": 40.4021,
+    "lng": -111.878,
+    "query": "Renaissance Academy, 3435 N 1120 E, Lehi, UT, 84043-6538, USA",
+    "source": "existing-html"
+  },
+  "renascence school international|17620 fitch avenue|irvine|ca|92614|usa": {
+    "approx": false,
+    "lat": 33.6841,
+    "lng": -117.8275,
+    "query": "Renascence School International, 17620 Fitch Avenue, Irvine, CA, 92614, USA",
+    "source": "existing-html"
+  },
+  "richmond west primary school|25 lennox street|richmond|new south wales||australia": {
+    "approx": false,
+    "lat": -37.823,
+    "lng": 144.998,
+    "query": "Richmond West Primary School, 25 Lennox Street, Richmond, New South Wales, Australia",
+    "source": "existing-html"
+  },
+  "ridgecrest elementary|1800 e 7200 s|cottonwood heights|ut|84121 6146|usa": {
+    "approx": false,
+    "lat": 40.6166,
+    "lng": -111.7095,
+    "query": "Ridgecrest Elementary, 1800 E 7200 S, Cottonwood Heights, UT, 84121-6146, USA",
+    "source": "existing-html"
+  },
+  "rigby high school|3850 e 300 n 2|rigby|id|83442|usa": {
+    "approx": false,
+    "lat": 43.6963,
+    "lng": -111.8753,
+    "query": "Rigby High School, 3850 E 300 N #2, Rigby, ID, 83442, USA",
+    "source": "existing-html"
+  },
+  "rigby middle school|290 n 3800 e|rigby|id|83442|usa": {
+    "approx": false,
+    "lat": 43.6963,
+    "lng": -111.8753,
+    "query": "Rigby Middle School, 290 N 3800 E, Rigby, ID, 83442, USA",
+    "source": "existing-html"
+  },
+  "riverton high school|12476 2700 w|riverton|ut|84065|usa": {
+    "approx": false,
+    "lat": 40.4774,
+    "lng": -111.9725,
+    "query": "Riverton High School, 12476 2700 W, Riverton, UT, 84065, USA",
+    "source": "existing-html"
+  },
+  "riverview elementary|273 w aspen hills blvd|saratoga springs|ut|84045 6651|usa": {
+    "approx": false,
+    "lat": 40.3466,
+    "lng": -111.9146,
+    "query": "Riverview Elementary, 273 W Aspen Hills Blvd, Saratoga Springs, UT, 84045-6651, USA",
+    "source": "existing-html"
+  },
+  "riverview international academy|12335 woodside avenue|lakeside|ca|92040|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "Riverview International Academy, 12335 Woodside Avenue, Lakeside, CA, 92040, USA",
+    "source": "existing-html"
+  },
+  "riverview international academy|9308 winter gardens boulevard|lakeside|ca|92040|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "Riverview International Academy, 9308 Winter Gardens Boulevard, Lakeside, CA, 92040, USA",
+    "source": "existing-html"
+  },
+  "roberta road middle school|4850 roberta road|concord|nc|28027|usa": {
+    "approx": false,
+    "lat": 35.4197,
+    "lng": -80.6758,
+    "query": "Roberta Road Middle School, 4850 Roberta Road, Concord, NC, 28027, USA",
+    "source": "existing-html"
+  },
+  "ross sheppard high school|13546 111 avenue nw|edmonton alberta||t5m 2p2|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Ross Sheppard High School, 13546-111 Avenue NW, Edmonton, Alberta,, T5M 2P2, Canada",
+    "source": "existing-html"
+  },
+  "rosslyn junior high school|13215 113a street nw|edmonton alberta||t5e 5b9|canada": {
+    "approx": false,
+    "lat": 53.546,
+    "lng": -113.494,
+    "query": "Rosslyn Junior High School, 13215-113A Street NW, Edmonton, Alberta,, T5E 5B9, Canada",
+    "source": "existing-html"
+  },
+  "rudecinda sepulveda dodson middle school|28014 south montereina drive|rancho palos verdes|ca|90275|usa": {
+    "approx": false,
+    "lat": 33.7589,
+    "lng": -118.3599,
+    "query": "Rudecinda Sepulveda Dodson Middle School, 28014 South Montereina Drive, Rancho Palos Verdes, CA, 90275, USA",
+    "source": "existing-html"
+  },
+  "sage creek elementary|1050 s 700 e|springville|ut|84663 2876|usa": {
+    "approx": false,
+    "lat": 40.2252,
+    "lng": -111.4916,
+    "query": "Sage Creek Elementary, 1050 S 700 E, Springville, UT, 84663-2876, USA",
+    "source": "existing-html"
+  },
+  "santa clara elementary|2950 crestview dr|santa clara|ut|84765 5109|usa": {
+    "approx": false,
+    "lat": 37.1344,
+    "lng": -113.6491,
+    "query": "Santa Clara Elementary, 2950 Crestview Dr, Santa Clara, UT, 84765-5109, USA",
+    "source": "existing-html"
+  },
+  "santa fe computer science magnet school|148 west duarte road|monrovia|ca|91016|usa": {
+    "approx": false,
+    "lat": 34.1535,
+    "lng": -117.9741,
+    "query": "Santa Fe Computer Science Magnet School, 148 West Duarte Road, Monrovia, CA, 91016, USA",
+    "source": "existing-html"
+  },
+  "scenic heights elementary school|5650 scenic heights drive|excelsior|mn|70501|usa": {
+    "approx": false,
+    "lat": 30.2389,
+    "lng": -91.9894,
+    "query": "Scenic Heights Elementary School, 5650 Scenic Heights Drive, Excelsior, MN, 70501-, USA",
+    "source": "existing-html"
+  },
+  "scenic park elementary|3933 patterson st|anchorage|ak|99504 4566|usa": {
+    "approx": false,
+    "lat": 61.2075,
+    "lng": -149.7415,
+    "query": "Scenic Park Elementary, 3933 Patterson St, Anchorage, AK, 99504-4566, USA",
+    "source": "existing-html"
+  },
+  "shelyn elementary school|19500 east nacora street|rowland heights|ca|91748|usa": {
+    "approx": false,
+    "lat": 33.9798,
+    "lng": -117.9032,
+    "query": "Shelyn Elementary School, 19500 East Nacora Street, Rowland Heights, CA, 91748, USA",
+    "source": "existing-html"
+  },
+  "shu ren international school|2125 jefferson ave|berkeley|ca|94703 1414|usa": {
+    "approx": false,
+    "lat": 37.8657,
+    "lng": -122.2746,
+    "query": "Shu Ren International School, 2125 Jefferson Ave, Berkeley, CA, 94703-1414, USA",
+    "source": "existing-html"
+  },
+  "shuang wen school p s 184|327 cherry st|new york|ny|10002 6560|usa": {
+    "approx": false,
+    "lat": 40.7223,
+    "lng": -73.9855,
+    "query": "Shuang Wen School P.S. 184, 327 Cherry St, New York, NY, 10002-6560, USA",
+    "source": "existing-html"
+  },
+  "shue medill middle school|1500 capitol trail|newark|de|19711|usa": {
+    "approx": false,
+    "lat": 39.7155,
+    "lng": -75.7318,
+    "query": "Shue-Medill Middle School, 1500 Capitol Trail, Newark, DE, 19711, USA",
+    "source": "existing-html"
+  },
+  "sierra madre middle school|160 n ca on ave|pasadena|ca|91024|usa": {
+    "approx": false,
+    "lat": 34.1686,
+    "lng": -118.0471,
+    "query": "Sierra Madre Middle School, 160 N Cañon Ave, Pasadena, CA, 91024, USA",
+    "source": "existing-html"
+  },
+  "sierramont middle school|3155 kimlee drive|san jose|ca|95132|usa": {
+    "approx": false,
+    "lat": 37.409,
+    "lng": -121.8279,
+    "query": "Sierramont Middle School, 3155 Kimlee Drive, San Jose, CA, 95132, USA",
+    "source": "existing-html"
+  },
+  "silicon valley international school|151 laura ln|palo alto|ca|94303 3221|usa": {
+    "approx": false,
+    "lat": 37.4578,
+    "lng": -122.1225,
+    "query": "Silicon Valley International School, 151 Laura Ln, Palo Alto, CA, 94303-3221, USA",
+    "source": "existing-html"
+  },
+  "singapore american school|40 woodlands street 41singapore 415 865 6000||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Singapore American School, 40 Woodlands Street 41Singapore (415) 865-6000, Singapore",
+    "source": "existing-html"
+  },
+  "singapore international school hong kong|23 nam long shan road|aberdeen|||hong kong": {
+    "approx": false,
+    "lat": 22.248,
+    "lng": 114.153,
+    "query": "Singapore International School (Hong Kong), 23 Nam Long Shan Road, Aberdeen, Hong Kong",
+    "source": "existing-html"
+  },
+  "snow canyon high school|1385 n 2400 w|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Snow Canyon High School, 1385 N 2400 W, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "snow canyon middle|1215 lava flow dr|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Snow Canyon Middle, 1215 Lava Flow Dr, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "south academy of international languages|8300 nations ford rd|charlotte|nc|28210|usa": {
+    "approx": false,
+    "lat": 35.131,
+    "lng": -80.8512,
+    "query": "South Academy of International Languages, 8300 Nations Ford Rd, Charlotte, NC, 28210, USA",
+    "source": "existing-html"
+  },
+  "south fork elementary|327 n 4100 e|rigby|id|83442 5422|usa": {
+    "approx": false,
+    "lat": 43.6963,
+    "lng": -111.8753,
+    "query": "South Fork Elementary, 327 N 4100 E, Rigby, ID, 83442-5422, USA",
+    "source": "existing-html"
+  },
+  "south hills middle school|13508 s 4000 w|riverton|ut|84065|usa": {
+    "approx": false,
+    "lat": 40.4774,
+    "lng": -111.9725,
+    "query": "South Hills Middle School, 13508 S 4000 W, Riverton, UT, 84065, USA",
+    "source": "existing-html"
+  },
+  "south jordan middle school|10245 s 2700 w|south jordan|ut|84095 8971|usa": {
+    "approx": false,
+    "lat": 40.5594,
+    "lng": -111.9824,
+    "query": "South Jordan Middle School, 10245 S 2700 W, South Jordan, UT, 84095-8971, USA",
+    "source": "existing-html"
+  },
+  "south ogden junior high school|650 e 5700 s|south ogden|ut|84405 3313|usa": {
+    "approx": false,
+    "lat": 41.1563,
+    "lng": -111.9349,
+    "query": "South Ogden Junior High School, 650 E 5700 S., South Ogden, UT, 84405-3313, USA",
+    "source": "existing-html"
+  },
+  "southland elementary|12675 south 2700 west|riverton|ut|84065|usa": {
+    "approx": false,
+    "lat": 40.4774,
+    "lng": -111.9725,
+    "query": "Southland Elementary, 12675 South 2700 West, Riverton, UT, 84065, USA",
+    "source": "existing-html"
+  },
+  "spring meadow early childhood center|611 campus drive|townsend|de|19734|usa": {
+    "approx": false,
+    "lat": 39.3745,
+    "lng": -75.6401,
+    "query": "Spring Meadow Early Childhood Center, 611 Campus Drive,, Townsend, DE, 19734, USA",
+    "source": "existing-html"
+  },
+  "springbridge international school|1980 hamilton avenue|san jose|ca|95125|usa": {
+    "approx": false,
+    "lat": 37.2972,
+    "lng": -121.8951,
+    "query": "Springbridge International School, 1980 Hamilton Avenue, San Jose, CA, 95125, USA",
+    "source": "existing-html"
+  },
+  "springville junior high school|189 south 1470 east|springville|ut|84663|usa": {
+    "approx": false,
+    "lat": 40.2252,
+    "lng": -111.4916,
+    "query": "Springville Junior High School, 189 South 1470 East, Springville, UT, 84663, USA",
+    "source": "existing-html"
+  },
+  "st joseph s institution international||singapore|||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "St. Joseph's Institution International, Singapore, Singapore",
+    "source": "existing-html"
+  },
+  "st joseph s institution|||||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "St. Joseph's Institution, Singapore",
+    "source": "existing-html"
+  },
+  "st louis immersion schools the chinese school|3740 marine ave|saint louis|mo|63110|usa": {
+    "approx": false,
+    "lat": 38.6266,
+    "lng": -90.2694,
+    "query": "St. Louis Immersion Schools: The Chinese School, 3740 Marine Ave., Saint Louis, MO, 63110, USA",
+    "source": "existing-html"
+  },
+  "st michael s catholic academy|136 58 41st avenue|flushing|ny|11355|usa": {
+    "approx": false,
+    "lat": 40.751,
+    "lng": -73.8227,
+    "query": "St. Michael's Catholic Academy, 136-58 41st Avenue, Flushing, NY, 11355, USA",
+    "source": "existing-html"
+  },
+  "stafford elementary school|1250 constitution ave|stafford|tx|77477 6326|usa": {
+    "approx": false,
+    "lat": 29.6274,
+    "lng": -95.5626,
+    "query": "Stafford Elementary School, 1250 Constitution Ave., Stafford, TX, 77477-6326, USA",
+    "source": "existing-html"
+  },
+  "stamford american international school||singapore|||singapore": {
+    "approx": true,
+    "lat": 1.352,
+    "lng": 103.82,
+    "query": "Stamford American International School, Singapore, Singapore",
+    "source": "existing-html"
+  },
+  "starr king elementary school|1215 carolina st|san francisco|ca|94107 3322|usa": {
+    "approx": false,
+    "lat": 37.7679,
+    "lng": -122.3929,
+    "query": "Starr King Elementary School, 1215 Carolina St, San Francisco, CA, 94107-3322, USA",
+    "source": "existing-html"
+  },
+  "station middle school|215 eastern ave|barrington|il|60010 4627|usa": {
+    "approx": false,
+    "lat": 42.1585,
+    "lng": -88.157,
+    "query": "Station Middle School, 215 Eastern Ave, Barrington, IL, 60010-4627, USA",
+    "source": "existing-html"
+  },
+  "stewart elementary|1155 n main st|centerville|ut|84014 1500|usa": {
+    "approx": false,
+    "lat": 40.9375,
+    "lng": -111.9016,
+    "query": "Stewart Elementary, 1155 N Main St, Centerville, UT, 84014-1500, USA",
+    "source": "existing-html"
+  },
+  "stonebrae elementary school|28761 hayward blvd|hayward|ca|94542 2213|usa": {
+    "approx": false,
+    "lat": 37.6535,
+    "lng": -122.0326,
+    "query": "Stonebrae Elementary School, 28761 Hayward Blvd, Hayward, CA, 94542-2213, USA",
+    "source": "existing-html"
+  },
+  "stough elementary|4210 edwards mill rd|raleigh|nc|27612 5404|usa": {
+    "approx": false,
+    "lat": 35.8519,
+    "lng": -78.702,
+    "query": "Stough Elementary, 4210 Edwards Mill Rd, Raleigh, NC, 27612-5404, USA",
+    "source": "existing-html"
+  },
+  "stowers magnet school of international studies|13350 beach street|cerritos|ca|90703|usa": {
+    "approx": false,
+    "lat": 33.867,
+    "lng": -118.0686,
+    "query": "Stowers Magnet School of International Studies, 13350 Beach Street, Cerritos, CA, 90703, USA",
+    "source": "existing-html"
+  },
+  "sunrise ridge intermediate school|3167 south 2350 east|st george|ut|84790|usa": {
+    "approx": false,
+    "lat": 37.0648,
+    "lng": -113.5465,
+    "query": "Sunrise Ridge Intermediate School, 3167 South 2350 East, St. George, UT, 84790, USA",
+    "source": "existing-html"
+  },
+  "syracuse elementary|1503 s 2000 w|syracuse|ut|84075 6937|usa": {
+    "approx": false,
+    "lat": 41.084,
+    "lng": -112.0785,
+    "query": "Syracuse Elementary, 1503 S 2000 W, Syracuse, UT, 84075-6937, USA",
+    "source": "existing-html"
+  },
+  "syracuse junior high|1450 s 2000 w|syracuse|ut|84075 6936|usa": {
+    "approx": false,
+    "lat": 41.084,
+    "lng": -112.0785,
+    "query": "Syracuse Junior High, 1450 S 2000 W, Syracuse, UT, 84075-6936, USA",
+    "source": "existing-html"
+  },
+  "tarwater elementary|2300 s gardner dr|chandler|az|85286 8349|usa": {
+    "approx": false,
+    "lat": 33.2698,
+    "lng": -111.8288,
+    "query": "Tarwater Elementary, 2300 S Gardner Dr, Chandler, AZ, 85286-8349, USA",
+    "source": "existing-html"
+  },
+  "taylorsville high school|5225 south redwood raod|taylorsville|ut|84123|usa": {
+    "approx": false,
+    "lat": 40.6587,
+    "lng": -111.92,
+    "query": "Taylorsville High School, 5225 South Redwood Raod, Taylorsville, UT, 84123, USA",
+    "source": "existing-html"
+  },
+  "tessa international school|720 monroe street suites|hoboken|nj|07030|usa": {
+    "approx": false,
+    "lat": 40.7447,
+    "lng": -74.03,
+    "query": "Tessa International School, 720 Monroe Street Suites, Hoboken, NJ, 07030, USA",
+    "source": "existing-html"
+  },
+  "the dalton school|1585 yonge street|toronoto ontario||m4t 1z9|canada": {
+    "approx": false,
+    "lat": 43.653,
+    "lng": -79.383,
+    "query": "The Dalton School, 1585 Yonge Street, Toronoto, Ontario, M4T 1Z9, Canada",
+    "source": "existing-html"
+  },
+  "the hong kong academy|33 wai man road sai kung|new territories|||hong kong": {
+    "approx": false,
+    "lat": 22.383,
+    "lng": 114.271,
+    "query": "The Hong Kong Academy, 33 Wai Man Road, Sai Kung, New Territories, Hong Kong",
+    "source": "existing-html"
+  },
+  "the international academy|14929 se allen rd|bellevue|wa|98006 1639|usa": {
+    "approx": false,
+    "lat": 47.5528,
+    "lng": -122.1506,
+    "query": "The International Academy, 14929 SE Allen Rd, Bellevue, WA, 98006-1639, USA",
+    "source": "existing-html"
+  },
+  "theodore roosevelt elementary school|1001 s east st|anaheim|ca|92805|usa": {
+    "approx": false,
+    "lat": 33.8263,
+    "lng": -117.9105,
+    "query": "Theodore Roosevelt Elementary School, 1001 S East St., Anaheim, CA, 92805, USA",
+    "source": "existing-html"
+  },
+  "three falls elementary|789 s 700 w|hurricane|ut|84737 2511|usa": {
+    "approx": false,
+    "lat": 37.2499,
+    "lng": -113.1946,
+    "query": "Three Falls Elementary, 789 S 700 W, Hurricane, UT, 84737-2511, USA",
+    "source": "existing-html"
+  },
+  "tierra del sol middle school|9611 petite lane|lakeside|ca|92040|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "Tierra del Sol Middle School, 9611 Petite Lane, Lakeside, CA, 92040, USA",
+    "source": "existing-html"
+  },
+  "tierra del sol middle school|9611 petite ln|lakeside|ca|92040 4317|usa": {
+    "approx": false,
+    "lat": 32.903,
+    "lng": -116.8655,
+    "query": "Tierra del Sol Middle School, 9611 Petite Ln, Lakeside, CA, 92040-4317, USA",
+    "source": "existing-html"
+  },
+  "tillicum middle school|11650 se 60th st|bellevue|wa|98006 3702|usa": {
+    "approx": false,
+    "lat": 47.5528,
+    "lng": -122.1506,
+    "query": "Tillicum Middle School, 11650 SE 60th St, Bellevue, WA, 98006-3702, USA",
+    "source": "existing-html"
+  },
+  "timberline middle school|500 west canyon crest road|alpine|ut|84042|usa": {
+    "approx": false,
+    "lat": 40.3407,
+    "lng": -111.7153,
+    "query": "Timberline Middle School, 500 West Canyon Crest Road, Alpine, UT, 84042, USA",
+    "source": "existing-html"
+  },
+  "timpview high school|3570 timpview drive|provo|ut|84601|usa": {
+    "approx": false,
+    "lat": 40.2213,
+    "lng": -111.7387,
+    "query": "Timpview High School, 3570 Timpview Drive, Provo, UT, 84601, USA",
+    "source": "existing-html"
+  },
+  "tonaquint intermediate|1210 west curly hollow drive|st george|ut|84770|usa": {
+    "approx": false,
+    "lat": 37.2655,
+    "lng": -113.7913,
+    "query": "Tonaquint Intermediate, 1210 West Curly Hollow Drive, St. George, UT, 84770, USA",
+    "source": "existing-html"
+  },
+  "triad international studies academy|622 e lexington aven|high point|nc|27262|usa": {
+    "approx": false,
+    "lat": 35.9534,
+    "lng": -80.0443,
+    "query": "Triad International Studies Academy, 622 E. Lexington Aven, High Point, NC, 27262, USA",
+    "source": "existing-html"
+  },
+  "tzu chi elementary school great love elementary|429 wildrose ave|monrovia|ca|91016 2940|usa": {
+    "approx": false,
+    "lat": 34.1535,
+    "lng": -117.9741,
+    "query": "Tzu Chi Elementary School (Great Love Elementary), 429 Wildrose Ave, Monrovia, CA, 91016-2940, USA",
+    "source": "existing-html"
+  },
+  "uintah elementary|6115 s 2250 e|ogden|ut|84403 5322|usa": {
+    "approx": false,
+    "lat": 41.1763,
+    "lng": -111.913,
+    "query": "Uintah Elementary, 6115 S 2250 E, Ogden, UT, 84403-5322, USA",
+    "source": "existing-html"
+  },
+  "varsity college|198 varsity parade|varsity lakes|queensland||australia": {
+    "approx": false,
+    "lat": -28.082,
+    "lng": 153.421,
+    "query": "Varsity College, 198 varsity Parade, Varsity Lakes, Queensland, Australia",
+    "source": "existing-html"
+  },
+  "venice high school|13000 venice boulevard|los angeles|ca|90066|usa": {
+    "approx": false,
+    "lat": 34.0002,
+    "lng": -118.4326,
+    "query": "Venice High School, 13000 Venice Boulevard, Los Angeles, CA, 90066, USA",
+    "source": "existing-html"
+  },
+  "verona area international school|400 n main street|verona|wi|53593|usa": {
+    "approx": false,
+    "lat": 42.9949,
+    "lng": -89.5677,
+    "query": "Verona Area International School, 400 N Main Street, Verona, WI, 53593, USA",
+    "source": "existing-html"
+  },
+  "victoria shanghai academy|19 shum wan raod|aberdeen|||hong kong": {
+    "approx": false,
+    "lat": 22.248,
+    "lng": 114.153,
+    "query": "Victoria Shanghai Academy, 19 Shum Wan Raod, Aberdeen, Hong Kong",
+    "source": "existing-html"
+  },
+  "village elementary school|601 new village road|west windsor township|nj|08550|usa": {
+    "approx": false,
+    "lat": 40.2826,
+    "lng": -74.6205,
+    "query": "Village Elementary School, 601 New Village Road, West Windsor Township, NJ, 08550, USA",
+    "source": "existing-html"
+  },
+  "vista heights middle school|484 pony express parkway|saratoga springs|ut|84045|usa": {
+    "approx": false,
+    "lat": 40.3466,
+    "lng": -111.9146,
+    "query": "Vista Heights Middle School, 484 Pony Express Parkway, Saratoga Springs, UT, 84045, USA",
+    "source": "existing-html"
+  },
+  "w b simpson elementry|5 old north rd|wyoming|de|19934 1237|usa": {
+    "approx": false,
+    "lat": 39.0931,
+    "lng": -75.6142,
+    "query": "W.B. Simpson Elementry, 5 Old North Rd, Wyoming, DE, 19934-1237, USA",
+    "source": "existing-html"
+  },
+  "walnut elementary school|841 glenwick ave|walnut|ca|91789 3108|usa": {
+    "approx": false,
+    "lat": 34.013,
+    "lng": -117.8539,
+    "query": "Walnut Elementary School, 841 Glenwick Ave, Walnut, CA, 91789-3108, USA",
+    "source": "existing-html"
+  },
+  "walnut hills elementary school|712 n walnut st|greenville|mi|48838 1462|usa": {
+    "approx": false,
+    "lat": 43.2085,
+    "lng": -85.2723,
+    "query": "Walnut Hills Elementary School, 712 N Walnut St, Greenville, MI, 48838-1462, USA",
+    "source": "existing-html"
+  },
+  "walton elementary school|2960 walton ave|coquitlam bc||v3b 6v6|canada": {
+    "approx": false,
+    "lat": 49.284,
+    "lng": -122.793,
+    "query": "Walton Elementary School, 2960 Walton Ave, Coquitlam BC, V3B 6V6, Canada",
+    "source": "existing-html"
+  },
+  "wasatch elementary|1080 n 900 e|provo|ut|84604 3537|usa": {
+    "approx": false,
+    "lat": 40.3454,
+    "lng": -111.58,
+    "query": "Wasatch Elementary, 1080 N 900 E, Provo, UT, 84604-3537, USA",
+    "source": "existing-html"
+  },
+  "washington fields intermediate|322 w 3090 s|washington|ut|84780|usa": {
+    "approx": false,
+    "lat": 37.1544,
+    "lng": -113.4692,
+    "query": "Washington Fields Intermediate, 322 W 3090 S, Washington, UT, 84780, USA",
+    "source": "existing-html"
+  },
+  "washington fields intermediate|||||usa": {
+    "approx": false,
+    "lat": 37.1544,
+    "lng": -113.4692,
+    "query": "Washington Fields Intermediate, USA",
+    "source": "existing-html"
+  },
+  "washington yu ying public charter school|220 taylor st ne|washington|dc|20017 1009|usa": {
+    "approx": false,
+    "lat": 38.937,
+    "lng": -76.9937,
+    "query": "Washington Yu Ying Public Charter School, 220 Taylor St NE, Washington, DC, 20017-1009, USA",
+    "source": "existing-html"
+  },
+  "weaver elementary|805 pleasant valley rd|garland|tx|75040 4834|usa": {
+    "approx": false,
+    "lat": 32.9331,
+    "lng": -96.6213,
+    "query": "Weaver Elementary, 805 Pleasant Valley Rd, Garland, TX, 75040-4834, USA",
+    "source": "existing-html"
+  },
+  "wedgeworth elementary|16949 wedgeworth dr|hacienda heights|ca|91745 3124|usa": {
+    "approx": false,
+    "lat": 34.0018,
+    "lng": -117.9834,
+    "query": "Wedgeworth Elementary, 16949 Wedgeworth Dr, Hacienda Heights, CA, 91745-3124, USA",
+    "source": "existing-html"
+  },
+  "wellington college international shanghai||shanghai|||china": {
+    "approx": false,
+    "lat": 31.23,
+    "lng": 121.474,
+    "query": "Wellington College International Shanghai, Shanghai, China",
+    "source": "existing-html"
+  },
+  "west county mandarin school|1575 mann dr|pinole|ca|94564|usa": {
+    "approx": false,
+    "lat": 37.9955,
+    "lng": -122.2814,
+    "query": "West County Mandarin School, 1575 Mann Dr., Pinole, CA, 94564, USA",
+    "source": "existing-html"
+  },
+  "west linn high school|5464 west a street|west linn|or|97068|usa": {
+    "approx": false,
+    "lat": 45.3412,
+    "lng": -122.6624,
+    "query": "West Linn High school, 5464 West A Street, West Linn, OR, 97068, USA",
+    "source": "existing-html"
+  },
+  "west portal elementary|5 lenox way|san francisco|ca|94127|usa": {
+    "approx": false,
+    "lat": 37.7324,
+    "lng": -122.4574,
+    "query": "West Portal Elementary, 5 Lenox Way, San Francisco, CA, 94127, USA",
+    "source": "existing-html"
+  },
+  "west side elementary|425 paca st|cumberland|md|21502 2818|usa": {
+    "approx": false,
+    "lat": 39.6294,
+    "lng": -78.7659,
+    "query": "West Side Elementary, 425 Paca St, Cumberland, MD, 21502-2818, USA",
+    "source": "existing-html"
+  },
+  "westdale middle school|5650 claycut road|baton rouge|la|70806|usa": {
+    "approx": false,
+    "lat": 30.451,
+    "lng": -91.1277,
+    "query": "Westdale Middle School, 5650 Claycut Road, Baton Rouge, LA, 70806, USA",
+    "source": "existing-html"
+  },
+  "whispering winds academy|15844 n 43rd st|phoenix|az|85032 4124|usa": {
+    "approx": false,
+    "lat": 33.6254,
+    "lng": -112.0059,
+    "query": "Whispering Winds Academy, 15844 N 43rd St, Phoenix, AZ, 85032-4124, USA",
+    "source": "existing-html"
+  },
+  "william land elementary school|2120 12th st|sacramento|ca|95818 1428|usa": {
+    "approx": false,
+    "lat": 38.5571,
+    "lng": -121.4975,
+    "query": "William Land Elementary School, 2120 12th St, Sacramento, CA, 95818-1428, USA",
+    "source": "existing-html"
+  },
+  "wilson elementary school|8317 east sheffield road|san gabriel|ca|91775|usa": {
+    "approx": false,
+    "lat": 34.1163,
+    "lng": -118.0927,
+    "query": "Wilson Elementary School, 8317 East Sheffield Road, San Gabriel, CA, 91775, USA",
+    "source": "existing-html"
+  },
+  "wilsonville high school|6800 sw wilsonville road|wilsonville|or|97070|usa": {
+    "approx": false,
+    "lat": 45.3085,
+    "lng": -122.7794,
+    "query": "Wilsonville High School, 6800 SW Wilsonville Road, Wilsonville, OR, 97070, USA",
+    "source": "existing-html"
+  },
+  "wolf springs elementary school|178th street and grant|overland park|ks|66221|usa": {
+    "approx": false,
+    "lat": 38.8619,
+    "lng": -94.7144,
+    "query": "Wolf Springs Elementary School, 178th Street and Grant, Overland Park, KS, 66221, USA",
+    "source": "existing-html"
+  },
+  "woodstock elementary school|5601 se 50th ave|portland|or|97206 5679|usa": {
+    "approx": false,
+    "lat": 45.4799,
+    "lng": -122.6006,
+    "query": "Woodstock Elementary School, 5601 SE 50th Ave, Portland, OR, 97206-5679, USA",
+    "source": "existing-html"
+  },
+  "worldspeak|1639 westwood blvd|los angeles|ca|90024 5603|usa": {
+    "approx": false,
+    "lat": 34.0657,
+    "lng": -118.4341,
+    "query": "Worldspeak, 1639 Westwood Blvd, Los Angeles, CA, 90024-5603, USA",
+    "source": "existing-html"
+  },
+  "xin xing academy|1001 highway 7|hopkins|mn|55305 4737|usa": {
+    "approx": false,
+    "lat": 44.952,
+    "lng": -93.4361,
+    "query": "Xin Xing Academy, 1001 Highway 7, Hopkins, MN, 55305-4737, USA",
+    "source": "existing-html"
+  },
+  "yew cheng international school|3 somerset road|kowloon tong|||hong kong": {
+    "approx": false,
+    "lat": 22.337,
+    "lng": 114.176,
+    "query": "Yew Cheng International School, 3 Somerset Road, Kowloon Tong, Hong Kong",
+    "source": "existing-html"
+  },
+  "yew chung international school|310 easy st|mountain view|ca|94043 3711|usa": {
+    "approx": false,
+    "lat": 37.4192,
+    "lng": -122.0754,
+    "query": "Yew Chung International School, 310 Easy St, Mountain View, CA, 94043-3711, USA",
+    "source": "existing-html"
+  },
+  "yi hwang academy of language excellence|4550 river green parkway suite 100|duluth|ga|30024|usa": {
+    "approx": false,
+    "lat": 34.0649,
+    "lng": -84.0933,
+    "query": "Yi Hwang Academy of Language Excellence, 4550 River Green Parkway, Suite 100, Duluth, GA, 30024, USA",
+    "source": "existing-html"
+  },
+  "yinghua academy charter school|1616 buchanan st ne|minneapolis|mn|55413 1609|usa": {
+    "approx": false,
+    "lat": 45.0022,
+    "lng": -93.2416,
+    "query": "Yinghua Academy Charter School, 1616 Buchanan St NE,, Minneapolis, MN, 55413-1609, USA",
+    "source": "existing-html"
+  },
+  "yinghua international school|25 laurel ave|kingston|nj|08528 9621|usa": {
+    "approx": false,
+    "lat": 40.3871,
+    "lng": -74.621,
+    "query": "YingHua International School, 25 Laurel Ave, Kingston, NJ, 08528-9621, USA",
+    "source": "existing-html"
+  },
+  "yk pao school||shanghai|||china": {
+    "approx": false,
+    "lat": 31.23,
+    "lng": 121.474,
+    "query": "YK Pao School, Shanghai, China",
+    "source": "existing-html"
+  },
+  "yu ming charter school|1086 alcatraz ave|oakland|ca|94608 1265|usa": {
+    "approx": false,
+    "lat": 37.8347,
+    "lng": -122.2919,
+    "query": "Yu Ming Charter School, 1086 Alcatraz Ave, Oakland, CA, 94608-1265, USA",
+    "source": "existing-html"
+  },
+  "zeeland christian school|334 w central ave|zeeland|mi|49464 1502|usa": {
+    "approx": false,
+    "lat": 42.8627,
+    "lng": -85.962,
+    "query": "Zeeland Christian School, 334 W Central Ave, Zeeland, MI, 49464-1502, USA",
+    "source": "existing-html"
+  },
+  "zhi ler pattana trilingual school|158 2 ramkhamhaeng rd bangkok||||thailand": {
+    "approx": false,
+    "lat": 13.756,
+    "lng": 100.502,
+    "query": "Zhi-Ler Pattana Trilingual School, 158 2 Ramkhamhaeng Rd, Bangkok, Thailand",
+    "source": "existing-html"
+  }
+}
