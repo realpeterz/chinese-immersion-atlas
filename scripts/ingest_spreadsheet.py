@@ -89,9 +89,12 @@ def extract_const(html: str, name: str, next_name: str) -> Any:
     return json.loads(m.group(1))
 
 
-def read_existing(html_path: Path) -> tuple[list[dict[str, Any]], dict[str, Any]]:
+def read_existing(html_path: Path, schools_json_path: Path) -> tuple[list[dict[str, Any]], dict[str, Any]]:
     html = html_path.read_text(encoding="utf-8")
-    schools = extract_const(html, "SCHOOLS", "WORLD")
+    try:
+        schools = extract_const(html, "SCHOOLS", "WORLD")
+    except SystemExit:
+        schools = json.loads(schools_json_path.read_text(encoding="utf-8")) if schools_json_path.exists() else []
     labels = extract_const(html, "LABELS", "C_MANDARIN")
     return schools, labels
 
@@ -314,6 +317,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("spreadsheet", type=Path)
     ap.add_argument("--html", type=Path, default=Path("Chinese-Immersion-Atlas.html"))
+    ap.add_argument("--schools-json", type=Path, default=Path("data/schools.json"))
     ap.add_argument("--geocode-cache", type=Path, default=Path("data/geocodes.json"))
     ap.add_argument("--geocode-missing", dest="geocode_missing", action="store_true", default=True, help="Fetch missing coordinates from Nominatim/OpenStreetMap (default)")
     ap.add_argument("--no-geocode-missing", dest="geocode_missing", action="store_false", help="Do not fetch missing coordinates; only use cache/existing HTML")
@@ -323,7 +327,7 @@ def main() -> int:
     ap.add_argument("--allow-missing-geo", action="store_true")
     args = ap.parse_args()
 
-    existing, labels = read_existing(args.html)
+    existing, labels = read_existing(args.html, args.schools_json)
     cache = load_geocode_cache(args.geocode_cache)
     seed_cache_from_existing(cache, existing)
 
@@ -352,8 +356,9 @@ def main() -> int:
         return 0
 
     write_geocode_cache(args.geocode_cache, cache)
+    args.schools_json.parent.mkdir(parents=True, exist_ok=True)
+    args.schools_json.write_text(json.dumps(schools, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     html = args.html.read_text(encoding="utf-8")
-    html = replace_const(html, "SCHOOLS", "WORLD", schools)
     html = replace_const(html, "LABELS", "C_MANDARIN", labels)
     args.html.write_text(html, encoding="utf-8")
     print(f"Updated {args.html}")
