@@ -36,6 +36,12 @@ To fetch coordinates for new schools via Nominatim/OpenStreetMap:
 
 Review new `data/geocodes.json` entries after geocoding; automated geocoding can return approximate or incorrect matches.
 
+## Tests
+
+```bash
+python3 -m unittest discover -s tests -v
+```
+
 ## Data source
 
 Spreadsheet downloaded from:

@@ -34,6 +34,10 @@ def clean(v: Any) -> str:
     return str(v).replace("\xa0", " ").strip()
 
 
+def cell(row: tuple[Any, ...], idx: int) -> Any:
+    return row[idx] if idx < len(row) else None
+
+
 def title_model(v: str) -> str:
     v = clean(v)
     return {"strand": "Strand", "whole": "Whole School", "whole school": "Whole School"}.get(v.lower(), v)
@@ -157,8 +161,8 @@ def parse_international(ws) -> list[dict[str, Any]]:
             "name": name, "district": clean(row[2]), "address": clean(row[3]),
             "city": clean(row[4]), "state": clean(row[5]), "zip": clean(row[7]),
             "country": country or "", "grades": clean(row[10]), "type": clean(row[8]),
-            "phone": clean(row[9]), "year": clean(row[11]), "mandarin": clean(row[14]),
-            "model": title_model(row[15]), "otherLang": "", "website": clean(row[12]),
+            "phone": clean(cell(row, 9)), "year": clean(cell(row, 11)), "mandarin": clean(cell(row, 14)),
+            "model": title_model(cell(row, 15)), "otherLang": "", "website": clean(cell(row, 12)),
         })
         out.append(s)
     return out
