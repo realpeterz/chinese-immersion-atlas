@@ -26,12 +26,12 @@ The atlas HTML currently embeds school data in a JavaScript `SCHOOLS` constant. 
 uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
 ```
 
-The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. Run with `--dry-run` first to check for unmatched schools.
+The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. If a school is missing coordinates, the script fetches them from Nominatim/OpenStreetMap by default.
 
-To fetch coordinates for new schools via Nominatim/OpenStreetMap:
+To avoid network geocoding and only use cached/existing coordinates:
 
 ```bash
-uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --geocode-missing
+uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx --no-geocode-missing
 ```
 
 Review new `data/geocodes.json` entries after geocoding; automated geocoding can return approximate or incorrect matches.
