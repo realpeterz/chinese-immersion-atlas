@@ -3,7 +3,33 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
-<title>Chinese Immersion Atlas</title>
+<title>Chinese Immersion Atlas | Mandarin & Cantonese Immersion School Map</title>
+<meta name="description" content="Explore an interactive map and searchable directory of Mandarin and Cantonese immersion schools in the United States and around the world."/>
+<meta name="keywords" content="Chinese immersion schools, Mandarin immersion, Cantonese immersion, dual language schools, bilingual education, immersion school map"/>
+<meta name="author" content="Chinese Immersion Atlas"/>
+<meta name="robots" content="index, follow"/>
+<link rel="canonical" href="https://realpeterz.github.io/chinese-immersion-atlas/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://realpeterz.github.io/chinese-immersion-atlas/"/>
+<meta property="og:title" content="Chinese Immersion Atlas"/>
+<meta property="og:description" content="Interactive map and searchable directory of Mandarin and Cantonese immersion schools."/>
+<meta property="og:site_name" content="Chinese Immersion Atlas"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Chinese Immersion Atlas"/>
+<meta name="twitter:description" content="Interactive map and searchable directory of Mandarin and Cantonese immersion schools."/>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebApplication",
+  "name": "Chinese Immersion Atlas",
+  "url": "https://realpeterz.github.io/chinese-immersion-atlas/",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Any",
+  "description": "Interactive map and searchable directory of Mandarin and Cantonese immersion schools in the United States and around the world.",
+  "about": ["Mandarin immersion schools", "Cantonese immersion schools", "dual-language education"],
+  "isBasedOn": "https://miparentscouncil.org/full-mandarin-immersion-school-list/"
+}
+</script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css"/>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -41,6 +67,7 @@
   .leaflet-control-layers-expanded{padding:8px 10px!important;font-family:var(--san);font-size:13px;color:var(--ink)}
   .leaflet-control-layers-expanded label{display:flex;align-items:center;gap:6px;margin:3px 0;cursor:pointer}
   *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
   html,body{height:100%;margin:0}
   body{font-family:var(--san);color:var(--ink);background:var(--paper);overflow:hidden}
   #app{display:flex;flex-direction:column;height:100%}
@@ -201,6 +228,13 @@
 </style>
 </head>
 <body>
+<section class="sr-only" aria-label="About Chinese Immersion Atlas">
+  <h2>Chinese Immersion Atlas</h2>
+  <p>Chinese Immersion Atlas is an interactive map and searchable directory of Mandarin and Cantonese immersion schools, including public, charter, and private dual-language programs in the United States and internationally.</p>
+</section>
+<noscript>
+  <p>Chinese Immersion Atlas requires JavaScript to display the interactive school map. The generated school data is available in <a href="data/schools.json">data/schools.json</a>.</p>
+</noscript>
 <div id="app">
   <header>
     <div class="seal">中</div>

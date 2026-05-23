@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://realpeterz.github.io/chinese-immersion-atlas/sitemap.xml
