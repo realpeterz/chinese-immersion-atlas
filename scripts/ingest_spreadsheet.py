@@ -319,7 +319,7 @@ def replace_const(html: str, name: str, next_name: str, value: Any) -> str:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("spreadsheet", type=Path)
-    ap.add_argument("--html", type=Path, default=Path("Chinese-Immersion-Atlas.html"))
+    ap.add_argument("--html", type=Path, default=Path("index.html"))
     ap.add_argument("--schools-json", type=Path, default=Path("data/schools.json"))
     ap.add_argument("--labels-json", type=Path, default=Path("data/labels.json"))
     ap.add_argument("--geocode-cache", type=Path, default=Path("data/geocodes.json"))

@@ -4,7 +4,8 @@ An interactive web map of Chinese immersion programs.
 
 ## Files
 
-- `Chinese-Immersion-Atlas.html` — interactive atlas page.
+- `index.html` — interactive atlas page and GitHub Pages entrypoint.
+- `Chinese-Immersion-Atlas.html` — legacy redirect to `index.html`.
 - `data/schools.json` — generated school data loaded by the atlas.
 - `data/labels.json` — generated map label data loaded by the atlas.
 - `data/geocodes.json` — geocode cache used during spreadsheet ingestion.
@@ -19,7 +20,7 @@ Serve the folder locally:
 python3 -m http.server 8000
 ```
 
-Then visit <http://localhost:8000/Chinese-Immersion-Atlas.html>.
+Then visit <http://localhost:8000/>.
 
 ## Ingest a new spreadsheet
 
@@ -29,7 +30,7 @@ The atlas loads generated school data from `data/schools.json` and label data fr
 uv run ./scripts/ingest_spreadsheet.py data/source/mip-list-2026-1-17-1.xlsx
 ```
 
-The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing HTML. If a school is missing coordinates, the script fetches them from Nominatim/OpenStreetMap by default.
+The spreadsheet does not include latitude/longitude, so the script uses `data/geocodes.json` plus coordinates preserved from the existing atlas data. If a school is missing coordinates, the script fetches them from Nominatim/OpenStreetMap by default.
 
 To avoid network geocoding and only use cached/existing coordinates:
 
